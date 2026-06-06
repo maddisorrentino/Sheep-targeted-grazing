@@ -20,8 +20,8 @@ library(plotrix)
 ## set working directory
 #change to your directory as needed 
 
-# MADDI:
-setwd("Github something folder")
+#Maddi:
+setwd("/Users/madelynsorrentino/Documents/GitHub/Sheep-targeted-grazing")
 
 ## load data for plots across years 
 all_lpi_2022 <- read.csv("percent_cover_all_plots_with_species_info_2022.csv")
