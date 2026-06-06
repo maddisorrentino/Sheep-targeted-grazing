@@ -1,0 +1,1108 @@
+,location_id,Site,Plot,Trt,Year,Date,Name,species,count,prop_150,perc_150,species_name,functional_group,duration,native_status
+1,DC_1_FASP,DC,1,FASP,2023,7/5/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",BG,55,0.367,36.667,bare ground,bare ground,,
+2,DC_1_FASP,DC,1,FASP,2023,7/5/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",L,40,0.267,26.667,litter,litter,,
+3,DC_1_FASP,DC,1,FASP,2023,7/5/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",BRTE,36,0.24,24,Bromus tectorum,cheatgrass,annual,introduced
+4,DC_1_FASP,DC,1,FASP,2023,7/5/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",CHDO,9,0.06,6,Chaenactis douglasii,forb,perennial,native
+5,DC_1_FASP,DC,1,FASP,2023,7/5/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",COPA,9,0.06,6,Collinsia parviflora,forb,annual,native
+6,DC_1_FASP,DC,1,FASP,2023,7/5/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",PHHA,9,0.06,6,Phacelia hastata,forb,perennial,native
+7,DC_1_FASP,DC,1,FASP,2023,7/5/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",CAMI,5,0.033,3.333,Camelina microcarpa,forb,annual,introduced
+8,DC_1_FASP,DC,1,FASP,2023,7/5/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",PSSP,5,0.033,3.333,Pseudoroegneria spicata,grass,perennial,native
+9,DC_1_FASP,DC,1,FASP,2023,7/5/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",MEAL,4,0.027,2.667,Mentzelia albicaulis ,forb,annual,native
+10,DC_1_FASP,DC,1,FASP,2023,7/5/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",MEBU,4,0.027,2.667,Melica bulbosa,grass,perennial,native
+11,DC_1_FASP,DC,1,FASP,2023,7/5/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",PUTR,4,0.027,2.667,Purshia tridentata,shrub,perennial,native
+12,DC_1_FASP,DC,1,FASP,2023,7/5/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",LASE,3,0.02,2,Lactuca serriola,forb,annual,introduced
+13,DC_1_FASP,DC,1,FASP,2023,7/5/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",CRAM,2,0.013,1.333,Cryptantha ambigua ,forb,annual,native
+14,DC_1_FASP,DC,1,FASP,2023,7/5/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",ERUM,2,0.013,1.333,Eriogonum umbellatum,forb,perennial,native
+15,DC_1_FASP,DC,1,FASP,2023,7/5/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",LECI,2,0.013,1.333,Leymus cinereus,grass,perennial,native
+16,DC_1_FASP,DC,1,FASP,2023,7/5/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",PODO,2,0.013,1.333,Polygonum douglasii ,forb,annual,native
+17,DC_1_FASP,DC,1,FASP,2023,7/5/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",BASA,1,0.007,0.667,Balsamorhiza sagittata,forb,perennial,native
+18,DC_1_FASP,DC,1,FASP,2023,7/5/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",CHVI,1,0.007,0.667,Chrysothamnus viscidiflorus,shrub,perennial,native
+19,DC_1_FASP,DC,1,FASP,2023,7/5/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",LALO,1,0.007,0.667,Lappula longispina,forb,annual,native
+20,DC_1_FASP,DC,1,FASP,2023,7/5/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",MIGR,1,0.007,0.667,Microsteris gracilis,forb,annual,native
+21,DC_2_FASP,DC,2,FASP,2023,7/14/2023,"April Hulet, Raechel Hunsaker",L,92,0.613,61.333,litter,litter,,
+22,DC_2_FASP,DC,2,FASP,2023,7/14/2023,"April Hulet, Raechel Hunsaker",BRTE,47,0.313,31.333,Bromus tectorum,cheatgrass,annual,introduced
+23,DC_2_FASP,DC,2,FASP,2023,7/14/2023,"April Hulet, Raechel Hunsaker",BG,25,0.167,16.667,bare ground,bare ground,,
+24,DC_2_FASP,DC,2,FASP,2023,7/14/2023,"April Hulet, Raechel Hunsaker",PSSP,22,0.147,14.667,Pseudoroegneria spicata,grass,perennial,native
+25,DC_2_FASP,DC,2,FASP,2023,7/14/2023,"April Hulet, Raechel Hunsaker",LECI,17,0.113,11.333,Leymus cinereus,grass,perennial,native
+26,DC_2_FASP,DC,2,FASP,2023,7/14/2023,"April Hulet, Raechel Hunsaker",MARE,14,0.093,9.333,Mahonia repens,shrub,perennial,native
+27,DC_2_FASP,DC,2,FASP,2023,7/14/2023,"April Hulet, Raechel Hunsaker",PUTR,11,0.073,7.333,Purshia tridentata,shrub,perennial,native
+28,DC_2_FASP,DC,2,FASP,2023,7/14/2023,"April Hulet, Raechel Hunsaker",EPBR,5,0.033,3.333,Epilobium brachycarpum ,forb,annual,native
+29,DC_2_FASP,DC,2,FASP,2023,7/14/2023,"April Hulet, Raechel Hunsaker",Lupinus,5,0.033,3.333,Lupinus spp,forb,perennial,native
+30,DC_2_FASP,DC,2,FASP,2023,7/14/2023,"April Hulet, Raechel Hunsaker",CAMI,4,0.027,2.667,Camelina microcarpa,forb,annual,introduced
+31,DC_2_FASP,DC,2,FASP,2023,7/14/2023,"April Hulet, Raechel Hunsaker",COPA,4,0.027,2.667,Collinsia parviflora,forb,annual,native
+32,DC_2_FASP,DC,2,FASP,2023,7/14/2023,"April Hulet, Raechel Hunsaker",CHDO,3,0.02,2,Chaenactis douglasii,forb,perennial,native
+33,DC_2_FASP,DC,2,FASP,2023,7/14/2023,"April Hulet, Raechel Hunsaker",MEDI,3,0.02,2,Mentzelia dispersa ,forb,annual,native
+34,DC_2_FASP,DC,2,FASP,2023,7/14/2023,"April Hulet, Raechel Hunsaker",PRVI,3,0.02,2,Prunus virginiana,shrub,perennial,native
+35,DC_2_FASP,DC,2,FASP,2023,7/14/2023,"April Hulet, Raechel Hunsaker",CRAM,2,0.013,1.333,Cryptantha ambigua ,forb,annual,native
+36,DC_2_FASP,DC,2,FASP,2023,7/14/2023,"April Hulet, Raechel Hunsaker",GADI,2,0.013,1.333,Gayophytum diffusum ,forb,annual,native
+37,DC_2_FASP,DC,2,FASP,2023,7/14/2023,"April Hulet, Raechel Hunsaker",SANI,2,0.013,1.333,Sambucus nigra,shrub,perennial,native
+38,DC_2_FASP,DC,2,FASP,2023,7/14/2023,"April Hulet, Raechel Hunsaker",DICA,1,0.007,0.667,Dieteria canescens,forb,perennial,native
+39,DC_2_FASP,DC,2,FASP,2023,7/14/2023,"April Hulet, Raechel Hunsaker",DS,1,0.007,0.667,dead shrub,shrub,,
+40,DC_2_FASP,DC,2,FASP,2023,7/14/2023,"April Hulet, Raechel Hunsaker",GAAP,1,0.007,0.667,Galium aparine ,forb,annual,native
+41,DC_2_FASP,DC,2,FASP,2023,7/14/2023,"April Hulet, Raechel Hunsaker",LASE,1,0.007,0.667,Lactuca serriola,forb,annual,introduced
+42,DC_2_FASP,DC,2,FASP,2023,7/14/2023,"April Hulet, Raechel Hunsaker",LODI,1,0.007,0.667,Lomatium dissectum ,forb,perennial,native
+43,DC_2_FASP,DC,2,FASP,2023,7/14/2023,"April Hulet, Raechel Hunsaker",MAGR,1,0.007,0.667,Madia gracilis,forb,annual,native
+44,DC_2_FASP,DC,2,FASP,2023,7/14/2023,"April Hulet, Raechel Hunsaker",PHHA,1,0.007,0.667,Phacelia hastata,forb,perennial,native
+45,DC_2_FASP,DC,2,FASP,2023,7/14/2023,"April Hulet, Raechel Hunsaker",SCAN,1,0.007,0.667,Scuttelaria angustifolia ,forb,annual,native
+46,DC_2_FASP,DC,2,FASP,2023,7/14/2023,"April Hulet, Raechel Hunsaker",SIAL,1,0.007,0.667,Sisymbrium altissimum,forb,annual,introduced
+47,DC_2_FASP,DC,2,FASP,2023,7/14/2023,"April Hulet, Raechel Hunsaker",SYRO,1,0.007,0.667,Symphoricarpos rotundifolius,shrub,perennial,native
+48,DC_2_FASP,DC,2,FASP,2023,7/14/2023,"April Hulet, Raechel Hunsaker",W,1,0.007,0.667,wood,wood,,
+49,DC_3_FASP,DC,3,FASP,2023,7/13/2023,"April Hulet, Raechel Hunsaker",L,79,0.527,52.667,litter,litter,,
+50,DC_3_FASP,DC,3,FASP,2023,7/13/2023,"April Hulet, Raechel Hunsaker",BRTE,51,0.34,34,Bromus tectorum,cheatgrass,annual,introduced
+51,DC_3_FASP,DC,3,FASP,2023,7/13/2023,"April Hulet, Raechel Hunsaker",BG,28,0.187,18.667,bare ground,bare ground,,
+52,DC_3_FASP,DC,3,FASP,2023,7/13/2023,"April Hulet, Raechel Hunsaker",POSE,17,0.113,11.333,Poa secunda,grass,perennial,native
+53,DC_3_FASP,DC,3,FASP,2023,7/13/2023,"April Hulet, Raechel Hunsaker",MAGR,14,0.093,9.333,Madia gracilis,forb,annual,native
+54,DC_3_FASP,DC,3,FASP,2023,7/13/2023,"April Hulet, Raechel Hunsaker",PHHA,10,0.067,6.667,Phacelia hastata,forb,perennial,native
+55,DC_3_FASP,DC,3,FASP,2023,7/13/2023,"April Hulet, Raechel Hunsaker",SIAL,5,0.033,3.333,Sisymbrium altissimum,forb,annual,introduced
+56,DC_3_FASP,DC,3,FASP,2023,7/13/2023,"April Hulet, Raechel Hunsaker",CAMI,4,0.027,2.667,Camelina microcarpa,forb,annual,introduced
+57,DC_3_FASP,DC,3,FASP,2023,7/13/2023,"April Hulet, Raechel Hunsaker",PUTR,3,0.02,2,Purshia tridentata,shrub,perennial,native
+58,DC_3_FASP,DC,3,FASP,2023,7/13/2023,"April Hulet, Raechel Hunsaker",SCAN,3,0.02,2,Scuttelaria angustifolia ,forb,annual,native
+59,DC_3_FASP,DC,3,FASP,2023,7/13/2023,"April Hulet, Raechel Hunsaker",LECI,2,0.013,1.333,Leymus cinereus,grass,perennial,native
+60,DC_3_FASP,DC,3,FASP,2023,7/13/2023,"April Hulet, Raechel Hunsaker",ARTR,1,0.007,0.667,Artemisia tridentata vaseyana,shrub,perennial,native
+61,DC_3_FASP,DC,3,FASP,2023,7/13/2023,"April Hulet, Raechel Hunsaker",CRTO,1,0.007,0.667,Cryptantha torreyana,forb,annual,native
+62,DC_3_FASP,DC,3,FASP,2023,7/13/2023,"April Hulet, Raechel Hunsaker",LIRU,1,0.007,0.667,Lithospermum ruderale,forb,perennial,native
+63,DC_3_FASP,DC,3,FASP,2023,7/13/2023,"April Hulet, Raechel Hunsaker",PSSP,1,0.007,0.667,Pseudoroegneria spicata,grass,perennial,native
+64,DC_3_FASP,DC,3,FASP,2023,7/13/2023,"April Hulet, Raechel Hunsaker",TRDU,1,0.007,0.667,Tragopogon dubius,forb,annual,introduced
+65,DC_4_FASP,DC,4,FASP,2023,7/13/2023,"April Hulet, Raechel Hunsaker",L,70,0.467,46.667,litter,litter,,
+66,DC_4_FASP,DC,4,FASP,2023,7/13/2023,"April Hulet, Raechel Hunsaker",BRTE,47,0.313,31.333,Bromus tectorum,cheatgrass,annual,introduced
+67,DC_4_FASP,DC,4,FASP,2023,7/13/2023,"April Hulet, Raechel Hunsaker",BG,24,0.16,16,bare ground,bare ground,,
+68,DC_4_FASP,DC,4,FASP,2023,7/13/2023,"April Hulet, Raechel Hunsaker",MAGR,17,0.113,11.333,Madia gracilis,forb,annual,native
+69,DC_4_FASP,DC,4,FASP,2023,7/13/2023,"April Hulet, Raechel Hunsaker",PRVI,15,0.1,10,Prunus virginiana,shrub,perennial,native
+70,DC_4_FASP,DC,4,FASP,2023,7/13/2023,"April Hulet, Raechel Hunsaker",SIAL,9,0.06,6,Sisymbrium altissimum,forb,annual,introduced
+71,DC_4_FASP,DC,4,FASP,2023,7/13/2023,"April Hulet, Raechel Hunsaker",PHHA,6,0.04,4,Phacelia hastata,forb,perennial,native
+72,DC_4_FASP,DC,4,FASP,2023,7/13/2023,"April Hulet, Raechel Hunsaker",COPA,5,0.033,3.333,Collinsia parviflora,forb,annual,native
+73,DC_4_FASP,DC,4,FASP,2023,7/13/2023,"April Hulet, Raechel Hunsaker",SCAN,5,0.033,3.333,Scuttelaria angustifolia ,forb,annual,native
+74,DC_4_FASP,DC,4,FASP,2023,7/13/2023,"April Hulet, Raechel Hunsaker",CAMI,4,0.027,2.667,Camelina microcarpa,forb,annual,introduced
+75,DC_4_FASP,DC,4,FASP,2023,7/13/2023,"April Hulet, Raechel Hunsaker",POSE,3,0.02,2,Poa secunda,grass,perennial,native
+76,DC_4_FASP,DC,4,FASP,2023,7/13/2023,"April Hulet, Raechel Hunsaker",VETH,3,0.02,2,Verbascum thapsus,forb,perennial,introduced
+77,DC_4_FASP,DC,4,FASP,2023,7/13/2023,"April Hulet, Raechel Hunsaker",EPBR,2,0.013,1.333,Epilobium brachycarpum ,forb,annual,native
+78,DC_4_FASP,DC,4,FASP,2023,7/13/2023,"April Hulet, Raechel Hunsaker",SANI,2,0.013,1.333,Sambucus nigra,shrub,perennial,native
+79,DC_4_FASP,DC,4,FASP,2023,7/13/2023,"April Hulet, Raechel Hunsaker",AGGL,1,0.007,0.667,Agoseris glauca,forb,perennial,native
+80,DC_4_FASP,DC,4,FASP,2023,7/13/2023,"April Hulet, Raechel Hunsaker",ARTR,1,0.007,0.667,Artemisia tridentata vaseyana,shrub,perennial,native
+81,DC_4_FASP,DC,4,FASP,2023,7/13/2023,"April Hulet, Raechel Hunsaker",CEVE,1,0.007,0.667,Ceanothus velutinus,shrub,perennial,native
+82,DC_4_FASP,DC,4,FASP,2023,7/13/2023,"April Hulet, Raechel Hunsaker",CHFR,1,0.007,0.667,Chenopodium fremontii ,forb,annual,native
+83,DC_4_FASP,DC,4,FASP,2023,7/13/2023,"April Hulet, Raechel Hunsaker",CHVI,1,0.007,0.667,Chrysothamnus viscidiflorus,shrub,perennial,native
+84,DC_4_FASP,DC,4,FASP,2023,7/13/2023,"April Hulet, Raechel Hunsaker",CRAM,1,0.007,0.667,Cryptantha ambigua ,forb,annual,native
+85,DC_4_FASP,DC,4,FASP,2023,7/13/2023,"April Hulet, Raechel Hunsaker",DS,1,0.007,0.667,dead shrub,shrub,,
+86,DC_4_FASP,DC,4,FASP,2023,7/13/2023,"April Hulet, Raechel Hunsaker",LECI,1,0.007,0.667,Leymus cinereus,grass,perennial,native
+87,DC_4_FASP,DC,4,FASP,2023,7/13/2023,"April Hulet, Raechel Hunsaker",LODI,1,0.007,0.667,Lomatium dissectum ,forb,perennial,native
+88,DC_4_FASP,DC,4,FASP,2023,7/13/2023,"April Hulet, Raechel Hunsaker",PHHO,1,0.007,0.667,Phlox hoodii,forb,perennial,native
+89,DC_4_FASP,DC,4,FASP,2023,7/13/2023,"April Hulet, Raechel Hunsaker",PSSP,1,0.007,0.667,Pseudoroegneria spicata,grass,perennial,native
+90,DC_5_SP,DC,5,SP,2023,7/7/2023,"Kerry Byrne, Briana Swette, Kloe Walter, Kelly Hopping",L,61,0.407,40.667,litter,litter,,
+91,DC_5_SP,DC,5,SP,2023,7/7/2023,"Kerry Byrne, Briana Swette, Kloe Walter, Kelly Hopping",BG,53,0.353,35.333,bare ground,bare ground,,
+92,DC_5_SP,DC,5,SP,2023,7/7/2023,"Kerry Byrne, Briana Swette, Kloe Walter, Kelly Hopping",PSSP,15,0.1,10,Pseudoroegneria spicata,grass,perennial,native
+93,DC_5_SP,DC,5,SP,2023,7/7/2023,"Kerry Byrne, Briana Swette, Kloe Walter, Kelly Hopping",BRTE,14,0.093,9.333,Bromus tectorum,cheatgrass,annual,introduced
+94,DC_5_SP,DC,5,SP,2023,7/7/2023,"Kerry Byrne, Briana Swette, Kloe Walter, Kelly Hopping",COPA,13,0.087,8.667,Collinsia parviflora,forb,annual,native
+95,DC_5_SP,DC,5,SP,2023,7/7/2023,"Kerry Byrne, Briana Swette, Kloe Walter, Kelly Hopping",SYRO,11,0.073,7.333,Symphoricarpos rotundifolius,shrub,perennial,native
+96,DC_5_SP,DC,5,SP,2023,7/7/2023,"Kerry Byrne, Briana Swette, Kloe Walter, Kelly Hopping",EPBR,9,0.06,6,Epilobium brachycarpum ,forb,annual,native
+97,DC_5_SP,DC,5,SP,2023,7/7/2023,"Kerry Byrne, Briana Swette, Kloe Walter, Kelly Hopping",MIGR,7,0.047,4.667,Microsteris gracilis,forb,annual,native
+98,DC_5_SP,DC,5,SP,2023,7/7/2023,"Kerry Byrne, Briana Swette, Kloe Walter, Kelly Hopping",LECI,4,0.027,2.667,Leymus cinereus,grass,perennial,native
+99,DC_5_SP,DC,5,SP,2023,7/7/2023,"Kerry Byrne, Briana Swette, Kloe Walter, Kelly Hopping",GAAP,3,0.02,2,Galium aparine ,forb,annual,native
+100,DC_5_SP,DC,5,SP,2023,7/7/2023,"Kerry Byrne, Briana Swette, Kloe Walter, Kelly Hopping",MEBU,3,0.02,2,Melica bulbosa,grass,perennial,native
+101,DC_5_SP,DC,5,SP,2023,7/7/2023,"Kerry Byrne, Briana Swette, Kloe Walter, Kelly Hopping",PHHO,3,0.02,2,Phlox hoodii,forb,perennial,native
+102,DC_5_SP,DC,5,SP,2023,7/7/2023,"Kerry Byrne, Briana Swette, Kloe Walter, Kelly Hopping",PODO,3,0.02,2,Polygonum douglasii ,forb,annual,native
+103,DC_5_SP,DC,5,SP,2023,7/7/2023,"Kerry Byrne, Briana Swette, Kloe Walter, Kelly Hopping",POSE,3,0.02,2,Poa secunda,grass,perennial,native
+104,DC_5_SP,DC,5,SP,2023,7/7/2023,"Kerry Byrne, Briana Swette, Kloe Walter, Kelly Hopping",PUTR,3,0.02,2,Purshia tridentata,shrub,perennial,native
+105,DC_5_SP,DC,5,SP,2023,7/7/2023,"Kerry Byrne, Briana Swette, Kloe Walter, Kelly Hopping",ARTR,2,0.013,1.333,Artemisia tridentata vaseyana,shrub,perennial,native
+106,DC_5_SP,DC,5,SP,2023,7/7/2023,"Kerry Byrne, Briana Swette, Kloe Walter, Kelly Hopping",BASA,2,0.013,1.333,Balsamorhiza sagittata,forb,perennial,native
+107,DC_5_SP,DC,5,SP,2023,7/7/2023,"Kerry Byrne, Briana Swette, Kloe Walter, Kelly Hopping",BRSI,2,0.013,1.333,Bromus sitchensis,grass,perennial,native
+108,DC_5_SP,DC,5,SP,2023,7/7/2023,"Kerry Byrne, Briana Swette, Kloe Walter, Kelly Hopping",LASE,2,0.013,1.333,Lactuca serriola,forb,annual,introduced
+109,DC_5_SP,DC,5,SP,2023,7/7/2023,"Kerry Byrne, Briana Swette, Kloe Walter, Kelly Hopping",MAGR,2,0.013,1.333,Madia gracilis,forb,annual,native
+110,DC_5_SP,DC,5,SP,2023,7/7/2023,"Kerry Byrne, Briana Swette, Kloe Walter, Kelly Hopping",SCAN,2,0.013,1.333,Scuttelaria angustifolia ,forb,annual,native
+111,DC_5_SP,DC,5,SP,2023,7/7/2023,"Kerry Byrne, Briana Swette, Kloe Walter, Kelly Hopping",AGHE,1,0.007,0.667,Agoseris heterophylla ,forb,annual,native
+112,DC_5_SP,DC,5,SP,2023,7/7/2023,"Kerry Byrne, Briana Swette, Kloe Walter, Kelly Hopping",CEVE,1,0.007,0.667,Ceanothus velutinus,shrub,perennial,native
+113,DC_5_SP,DC,5,SP,2023,7/7/2023,"Kerry Byrne, Briana Swette, Kloe Walter, Kelly Hopping",GADI,1,0.007,0.667,Gayophytum diffusum ,forb,annual,native
+114,DC_5_SP,DC,5,SP,2023,7/7/2023,"Kerry Byrne, Briana Swette, Kloe Walter, Kelly Hopping",LODI,1,0.007,0.667,Lomatium dissectum ,forb,perennial,native
+115,DC_6_SP,DC,6,SP,2023,7/7/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",L,95,0.633,63.333,litter,litter,,
+116,DC_6_SP,DC,6,SP,2023,7/7/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",PSSP,36,0.24,24,Pseudoroegneria spicata,grass,perennial,native
+117,DC_6_SP,DC,6,SP,2023,7/7/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",BRTE,28,0.187,18.667,Bromus tectorum,cheatgrass,annual,introduced
+118,DC_6_SP,DC,6,SP,2023,7/7/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",GAAP,18,0.12,12,Galium aparine ,forb,annual,native
+119,DC_6_SP,DC,6,SP,2023,7/7/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",BG,12,0.08,8,bare ground,bare ground,,
+120,DC_6_SP,DC,6,SP,2023,7/7/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",GEVI,11,0.073,7.333,Geranium viscosissimum,forb,perennial,native
+121,DC_6_SP,DC,6,SP,2023,7/7/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",COPA,9,0.06,6,Collinsia parviflora,forb,annual,native
+122,DC_6_SP,DC,6,SP,2023,7/7/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",HISC,7,0.047,4.667,Hieracium scouleri,forb,perennial,native
+123,DC_6_SP,DC,6,SP,2023,7/7/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",PRVI,7,0.047,4.667,Prunus virginiana,shrub,perennial,native
+124,DC_6_SP,DC,6,SP,2023,7/7/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",SYRO,7,0.047,4.667,Symphoricarpos rotundifolius,shrub,perennial,native
+125,DC_6_SP,DC,6,SP,2023,7/7/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",LECI,6,0.04,4,Leymus cinereus,grass,perennial,native
+126,DC_6_SP,DC,6,SP,2023,7/7/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",TRDU,6,0.04,4,Tragopogon dubius,forb,annual,introduced
+127,DC_6_SP,DC,6,SP,2023,7/7/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",LASE,5,0.033,3.333,Lactuca serriola,forb,annual,introduced
+128,DC_6_SP,DC,6,SP,2023,7/7/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",MIGR,5,0.033,3.333,Microsteris gracilis,forb,annual,native
+129,DC_6_SP,DC,6,SP,2023,7/7/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",EPBR,4,0.027,2.667,Epilobium brachycarpum ,forb,annual,native
+130,DC_6_SP,DC,6,SP,2023,7/7/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",BRSI,3,0.02,2,Bromus sitchensis,grass,perennial,native
+131,DC_6_SP,DC,6,SP,2023,7/7/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",CAGE,3,0.02,2,Carex geyeri ,sedge,perennial,native
+132,DC_6_SP,DC,6,SP,2023,7/7/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",CLPE,3,0.02,2,Claytonia perfoliata,forb,annual,native
+133,DC_6_SP,DC,6,SP,2023,7/7/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",CRAC,3,0.02,2,Crepis acuminata,forb,perennial,native
+134,DC_6_SP,DC,6,SP,2023,7/7/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",LALO,3,0.02,2,Lappula longispina,forb,annual,native
+135,DC_6_SP,DC,6,SP,2023,7/7/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",POCU,3,0.02,2,Poa cusickii,grass,perennial,native
+136,DC_6_SP,DC,6,SP,2023,7/7/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",ERUM,2,0.013,1.333,Eriogonum umbellatum,forb,perennial,native
+137,DC_6_SP,DC,6,SP,2023,7/7/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",LIPA,2,0.013,1.333,Lithophragma parviflorum ,forb,perennial,native
+138,DC_6_SP,DC,6,SP,2023,7/7/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",LIRU,2,0.013,1.333,Lithospermum ruderale,forb,perennial,native
+139,DC_6_SP,DC,6,SP,2023,7/7/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",MAGR,2,0.013,1.333,Madia gracilis,forb,annual,native
+140,DC_6_SP,DC,6,SP,2023,7/7/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",PUTR,2,0.013,1.333,Purshia tridentata,shrub,perennial,native
+141,DC_6_SP,DC,6,SP,2023,7/7/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",unknown borage,2,0.013,1.333,unknown borage,forb,,
+142,DC_6_SP,DC,6,SP,2023,7/7/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",ARTR,1,0.007,0.667,Artemisia tridentata vaseyana,shrub,perennial,native
+143,DC_6_SP,DC,6,SP,2023,7/7/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",COLI,1,0.007,0.667,Collomia linearis,forb,annual,native
+144,DC_6_SP,DC,6,SP,2023,7/7/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",DRAR,1,0.007,0.667,Drymocallis arguta ,forb,perennial,native
+145,DC_6_SP,DC,6,SP,2023,7/7/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",LUAR,1,0.007,0.667,Lupinus argenteus var. holosericeus ,forb,perennial,native
+146,DC_6_SP,DC,6,SP,2023,7/7/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",MEBU,1,0.007,0.667,Melica bulbosa,grass,perennial,native
+147,DC_6_SP,DC,6,SP,2023,7/7/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",PODO,1,0.007,0.667,Polygonum douglasii ,forb,annual,native
+148,DC_6_SP,DC,6,SP,2023,7/7/2023,"Kerry Byrne, Kelly Hopping, Kloe Walter, Briana Swette",RIVI,1,0.007,0.667,Ribes viscosissimum,shrub,perennial,native
+149,DC_7_SP,DC,7,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",L,74,0.493,49.333,litter,litter,,
+150,DC_7_SP,DC,7,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",BRTE,37,0.247,24.667,Bromus tectorum,cheatgrass,annual,introduced
+151,DC_7_SP,DC,7,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",BG,33,0.22,22,bare ground,bare ground,,
+152,DC_7_SP,DC,7,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",MIGR,32,0.213,21.333,Microsteris gracilis,forb,annual,native
+153,DC_7_SP,DC,7,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",SYRO,9,0.06,6,Symphoricarpos rotundifolius,shrub,perennial,native
+154,DC_7_SP,DC,7,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",AGHE,6,0.04,4,Agoseris heterophylla ,forb,annual,native
+155,DC_7_SP,DC,7,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",PSSP,6,0.04,4,Pseudoroegneria spicata,grass,perennial,native
+156,DC_7_SP,DC,7,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",TECA,4,0.027,2.667,Tetradymia canescens,shrub,perennial,native
+157,DC_7_SP,DC,7,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",BASA,3,0.02,2,Balsamorhiza sagittata,forb,perennial,native
+158,DC_7_SP,DC,7,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",CHVI,3,0.02,2,Chrysothamnus viscidiflorus,shrub,perennial,native
+159,DC_7_SP,DC,7,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",CRAC,3,0.02,2,Crepis acuminata,forb,perennial,native
+160,DC_7_SP,DC,7,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",PODO,3,0.02,2,Polygonum douglasii ,forb,annual,native
+161,DC_7_SP,DC,7,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",SIAL,3,0.02,2,Sisymbrium altissimum,forb,annual,introduced
+162,DC_7_SP,DC,7,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",EPBR,2,0.013,1.333,Epilobium brachycarpum ,forb,annual,native
+163,DC_7_SP,DC,7,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",ERHE,2,0.013,1.333,Eriogonum heracleoides,forb,perennial,native
+164,DC_7_SP,DC,7,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",LASE,2,0.013,1.333,Lactuca serriola,forb,annual,introduced
+165,DC_7_SP,DC,7,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",LULE,2,0.013,1.333,Lupinus leucophyllus ,forb,perennial,native
+166,DC_7_SP,DC,7,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",MEDI,2,0.013,1.333,Mentzelia dispersa ,forb,annual,native
+167,DC_7_SP,DC,7,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",TRDU,2,0.013,1.333,Tragopogon dubius,forb,annual,introduced
+168,DC_7_SP,DC,7,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",AGGL,1,0.007,0.667,Agoseris glauca,forb,perennial,native
+169,DC_7_SP,DC,7,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",ARTR,1,0.007,0.667,Artemisia tridentata vaseyana,shrub,perennial,native
+170,DC_7_SP,DC,7,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",LECI,1,0.007,0.667,Leymus cinereus,grass,perennial,native
+171,DC_7_SP,DC,7,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",MAEX,1,0.007,0.667,Madia exigua,forb,annual,native
+172,DC_7_SP,DC,7,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",PRVI,1,0.007,0.667,Prunus virginiana,shrub,perennial,native
+173,DC_7_SP,DC,7,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",PUTR,1,0.007,0.667,Purshia tridentata,shrub,perennial,native
+174,DC_8_SP,DC,8,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",L,66,0.44,44,litter,litter,,
+175,DC_8_SP,DC,8,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",BG,54,0.36,36,bare ground,bare ground,,
+176,DC_8_SP,DC,8,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",BRTE,23,0.153,15.333,Bromus tectorum,cheatgrass,annual,introduced
+177,DC_8_SP,DC,8,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",PSSP,11,0.073,7.333,Pseudoroegneria spicata,grass,perennial,native
+178,DC_8_SP,DC,8,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",POSE,10,0.067,6.667,Poa secunda,grass,perennial,native
+179,DC_8_SP,DC,8,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",PUTR,9,0.06,6,Purshia tridentata,shrub,perennial,native
+180,DC_8_SP,DC,8,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",TRDU,5,0.033,3.333,Tragopogon dubius,forb,annual,introduced
+181,DC_8_SP,DC,8,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",LECI,4,0.027,2.667,Leymus cinereus,grass,perennial,native
+182,DC_8_SP,DC,8,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",CRAC,3,0.02,2,Crepis acuminata,forb,perennial,native
+183,DC_8_SP,DC,8,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",SIAL,3,0.02,2,Sisymbrium altissimum,forb,annual,introduced
+184,DC_8_SP,DC,8,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",CEVE,2,0.013,1.333,Ceanothus velutinus,shrub,perennial,native
+185,DC_8_SP,DC,8,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",CHDO,2,0.013,1.333,Chaenactis douglasii,forb,perennial,native
+186,DC_8_SP,DC,8,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",CHVI,1,0.007,0.667,Chrysothamnus viscidiflorus,shrub,perennial,native
+187,DC_8_SP,DC,8,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",COPA,1,0.007,0.667,Collinsia parviflora,forb,annual,native
+188,DC_8_SP,DC,8,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",EPBR,1,0.007,0.667,Epilobium brachycarpum ,forb,annual,native
+189,DC_8_SP,DC,8,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",ERNA,1,0.007,0.667,Ericameria nauseosa,shrub,perennial,native
+190,DC_8_SP,DC,8,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",MEBU,1,0.007,0.667,Melica bulbosa,grass,perennial,native
+191,DC_8_SP,DC,8,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",MEDI,1,0.007,0.667,Mentzelia dispersa ,forb,annual,native
+192,DC_8_SP,DC,8,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",PHHO,1,0.007,0.667,Phlox hoodii,forb,perennial,native
+193,DC_8_SP,DC,8,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",SYRO,1,0.007,0.667,Symphoricarpos rotundifolius,shrub,perennial,native
+194,DC_8_SP,DC,8,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",TECA,1,0.007,0.667,Tetradymia canescens,shrub,perennial,native
+195,DC_8_SP,DC,8,SP,2023,7/12/2023,"Curtis Drake, Mike Mancuso",W,1,0.007,0.667,wood,wood,,
+196,DC_9_SU,DC,9,SU,2023,7/19/2023,"Curtis Drake, Kloe Walter",L,120,0.8,80,litter,litter,,
+197,DC_9_SU,DC,9,SU,2023,7/19/2023,"Curtis Drake, Kloe Walter",BRTE,78,0.52,52,Bromus tectorum,cheatgrass,annual,introduced
+198,DC_9_SU,DC,9,SU,2023,7/19/2023,"Curtis Drake, Kloe Walter",LECI,24,0.16,16,Leymus cinereus,grass,perennial,native
+199,DC_9_SU,DC,9,SU,2023,7/19/2023,"Curtis Drake, Kloe Walter",EPBR,19,0.127,12.667,Epilobium brachycarpum ,forb,annual,native
+200,DC_9_SU,DC,9,SU,2023,7/19/2023,"Curtis Drake, Kloe Walter",POSE,13,0.087,8.667,Poa secunda,grass,perennial,native
+201,DC_9_SU,DC,9,SU,2023,7/19/2023,"Curtis Drake, Kloe Walter",PSSP,10,0.067,6.667,Pseudoroegneria spicata,grass,perennial,native
+202,DC_9_SU,DC,9,SU,2023,7/19/2023,"Curtis Drake, Kloe Walter",PRVI,8,0.053,5.333,Prunus virginiana,shrub,perennial,native
+203,DC_9_SU,DC,9,SU,2023,7/19/2023,"Curtis Drake, Kloe Walter",PUTR,8,0.053,5.333,Purshia tridentata,shrub,perennial,native
+204,DC_9_SU,DC,9,SU,2023,7/19/2023,"Curtis Drake, Kloe Walter",SYRO,8,0.053,5.333,Symphoricarpos rotundifolius,shrub,perennial,native
+205,DC_9_SU,DC,9,SU,2023,7/19/2023,"Curtis Drake, Kloe Walter",TRDU,8,0.053,5.333,Tragopogon dubius,forb,annual,introduced
+206,DC_9_SU,DC,9,SU,2023,7/19/2023,"Curtis Drake, Kloe Walter",LASE,7,0.047,4.667,Lactuca serriola,forb,annual,introduced
+207,DC_9_SU,DC,9,SU,2023,7/19/2023,"Curtis Drake, Kloe Walter",GADI,5,0.033,3.333,Gayophytum diffusum ,forb,annual,native
+208,DC_9_SU,DC,9,SU,2023,7/19/2023,"Curtis Drake, Kloe Walter",SIAL,5,0.033,3.333,Sisymbrium altissimum,forb,annual,introduced
+209,DC_9_SU,DC,9,SU,2023,7/19/2023,"Curtis Drake, Kloe Walter",MEDI,4,0.027,2.667,Mentzelia dispersa ,forb,annual,native
+210,DC_9_SU,DC,9,SU,2023,7/19/2023,"Curtis Drake, Kloe Walter",ILRI,3,0.02,2,Iliamna rivularis,forb,perennial,native
+211,DC_9_SU,DC,9,SU,2023,7/19/2023,"Curtis Drake, Kloe Walter",BG,2,0.013,1.333,bare ground,bare ground,,
+212,DC_9_SU,DC,9,SU,2023,7/19/2023,"Curtis Drake, Kloe Walter",BRSI,2,0.013,1.333,Bromus sitchensis,grass,perennial,native
+213,DC_9_SU,DC,9,SU,2023,7/19/2023,"Curtis Drake, Kloe Walter",COPA,2,0.013,1.333,Collinsia parviflora,forb,annual,native
+214,DC_9_SU,DC,9,SU,2023,7/19/2023,"Curtis Drake, Kloe Walter",GAAP,2,0.013,1.333,Galium aparine ,forb,annual,native
+215,DC_9_SU,DC,9,SU,2023,7/19/2023,"Curtis Drake, Kloe Walter",LUAR,2,0.013,1.333,Lupinus argenteus var. holosericeus ,forb,perennial,native
+216,DC_9_SU,DC,9,SU,2023,7/19/2023,"Curtis Drake, Kloe Walter",PHHA,2,0.013,1.333,Phacelia hastata,forb,perennial,native
+217,DC_9_SU,DC,9,SU,2023,7/19/2023,"Curtis Drake, Kloe Walter",ACMI,1,0.007,0.667,Achillea millefolium,forb,perennial,native
+218,DC_9_SU,DC,9,SU,2023,7/19/2023,"Curtis Drake, Kloe Walter",BUBO,1,0.007,0.667,unknown species code,forb,,
+219,DC_9_SU,DC,9,SU,2023,7/19/2023,"Curtis Drake, Kloe Walter",CAGE,1,0.007,0.667,Carex geyeri ,sedge,perennial,native
+220,DC_9_SU,DC,9,SU,2023,7/19/2023,"Curtis Drake, Kloe Walter",CIUN,1,0.007,0.667,Cirsium undulatum,forb,perennial,native
+221,DC_9_SU,DC,9,SU,2023,7/19/2023,"Curtis Drake, Kloe Walter",CRAC,1,0.007,0.667,Crepis acuminata,forb,perennial,native
+222,DC_9_SU,DC,9,SU,2023,7/19/2023,"Curtis Drake, Kloe Walter",HISC,1,0.007,0.667,Hieracium scouleri,forb,perennial,native
+223,DC_9_SU,DC,9,SU,2023,7/19/2023,"Curtis Drake, Kloe Walter",KEGA,1,0.007,0.667,Kelloggia galioides ,forb,perennial,native
+224,DC_9_SU,DC,9,SU,2023,7/19/2023,"Curtis Drake, Kloe Walter",MASA,1,0.007,0.667,Madia sativa ,forb,annual,native
+225,DC_9_SU,DC,9,SU,2023,7/19/2023,"Curtis Drake, Kloe Walter",PODO,1,0.007,0.667,Polygonum douglasii ,forb,annual,native
+226,DC_9_SU,DC,9,SU,2023,7/19/2023,"Curtis Drake, Kloe Walter",THAR,1,0.007,0.667,Thlaspi arvense,forb,annual,introduced
+227,DC_9_SU,DC,9,SU,2023,7/19/2023,"Curtis Drake, Kloe Walter",W,1,0.007,0.667,wood,wood,,
+228,DC_10_SU,DC,10,SU,2023,7/18/2023,"Curtis Drake, Kloe Walter",L,119,0.793,79.333,litter,litter,,
+229,DC_10_SU,DC,10,SU,2023,7/18/2023,"Curtis Drake, Kloe Walter",BRTE,42,0.28,28,Bromus tectorum,cheatgrass,annual,introduced
+230,DC_10_SU,DC,10,SU,2023,7/18/2023,"Curtis Drake, Kloe Walter",EPBR,20,0.133,13.333,Epilobium brachycarpum ,forb,annual,native
+231,DC_10_SU,DC,10,SU,2023,7/18/2023,"Curtis Drake, Kloe Walter",SYRO,19,0.127,12.667,Symphoricarpos rotundifolius,shrub,perennial,native
+232,DC_10_SU,DC,10,SU,2023,7/18/2023,"Curtis Drake, Kloe Walter",PUTR,15,0.1,10,Purshia tridentata,shrub,perennial,native
+233,DC_10_SU,DC,10,SU,2023,7/18/2023,"Curtis Drake, Kloe Walter",COPA,11,0.073,7.333,Collinsia parviflora,forb,annual,native
+234,DC_10_SU,DC,10,SU,2023,7/18/2023,"Curtis Drake, Kloe Walter",LECI,10,0.067,6.667,Leymus cinereus,grass,perennial,native
+235,DC_10_SU,DC,10,SU,2023,7/18/2023,"Curtis Drake, Kloe Walter",BG,9,0.06,6,bare ground,bare ground,,
+236,DC_10_SU,DC,10,SU,2023,7/18/2023,"Curtis Drake, Kloe Walter",SIAL,9,0.06,6,Sisymbrium altissimum,forb,annual,introduced
+237,DC_10_SU,DC,10,SU,2023,7/18/2023,"Curtis Drake, Kloe Walter",GAAP,8,0.053,5.333,Galium aparine ,forb,annual,native
+238,DC_10_SU,DC,10,SU,2023,7/18/2023,"Curtis Drake, Kloe Walter",MEDI,7,0.047,4.667,Mentzelia dispersa ,forb,annual,native
+239,DC_10_SU,DC,10,SU,2023,7/18/2023,"Curtis Drake, Kloe Walter",POSE,7,0.047,4.667,Poa secunda,grass,perennial,native
+240,DC_10_SU,DC,10,SU,2023,7/18/2023,"Curtis Drake, Kloe Walter",TRDU,6,0.04,4,Tragopogon dubius,forb,annual,introduced
+241,DC_10_SU,DC,10,SU,2023,7/18/2023,"Curtis Drake, Kloe Walter",PODO,5,0.033,3.333,Polygonum douglasii ,forb,annual,native
+242,DC_10_SU,DC,10,SU,2023,7/18/2023,"Curtis Drake, Kloe Walter",BUBO,4,0.027,2.667,unknown species code,forb,,
+243,DC_10_SU,DC,10,SU,2023,7/18/2023,"Curtis Drake, Kloe Walter",GADI,4,0.027,2.667,Gayophytum diffusum ,forb,annual,native
+244,DC_10_SU,DC,10,SU,2023,7/18/2023,"Curtis Drake, Kloe Walter",GARA2,4,0.027,2.667,Gayophytum ramosissimum,forb,annual,native
+245,DC_10_SU,DC,10,SU,2023,7/18/2023,"Curtis Drake, Kloe Walter",ARTR,2,0.013,1.333,Artemisia tridentata vaseyana,shrub,perennial,native
+246,DC_10_SU,DC,10,SU,2023,7/18/2023,"Curtis Drake, Kloe Walter",PSSP,2,0.013,1.333,Pseudoroegneria spicata,grass,perennial,native
+247,DC_10_SU,DC,10,SU,2023,7/18/2023,"Curtis Drake, Kloe Walter",AGGR,1,0.007,0.667,Agoseris grandiflora,forb,perennial,native
+248,DC_10_SU,DC,10,SU,2023,7/18/2023,"Curtis Drake, Kloe Walter",BASA,1,0.007,0.667,Balsamorhiza sagittata,forb,perennial,native
+249,DC_10_SU,DC,10,SU,2023,7/18/2023,"Curtis Drake, Kloe Walter",CHJU,1,0.007,0.667,Chondrilla juncea,forb,perennial,introduced
+250,DC_10_SU,DC,10,SU,2023,7/18/2023,"Curtis Drake, Kloe Walter",COGR,1,0.007,0.667,Collomia grandiflora ,forb,annual,native
+251,DC_10_SU,DC,10,SU,2023,7/18/2023,"Curtis Drake, Kloe Walter",CRAC,1,0.007,0.667,Crepis acuminata,forb,perennial,native
+252,DC_10_SU,DC,10,SU,2023,7/18/2023,"Curtis Drake, Kloe Walter",DS,1,0.007,0.667,dead shrub,shrub,,
+253,DC_10_SU,DC,10,SU,2023,7/18/2023,"Curtis Drake, Kloe Walter",HAPA,1,0.007,0.667,Hackelia patens ,forb,perennial,native
+254,DC_10_SU,DC,10,SU,2023,7/18/2023,"Curtis Drake, Kloe Walter",LASE,1,0.007,0.667,Lactuca serriola,forb,annual,introduced
+255,DC_10_SU,DC,10,SU,2023,7/18/2023,"Curtis Drake, Kloe Walter",LODI,1,0.007,0.667,Lomatium dissectum ,forb,perennial,native
+256,DC_10_SU,DC,10,SU,2023,7/18/2023,"Curtis Drake, Kloe Walter",MIGR,1,0.007,0.667,Microsteris gracilis,forb,annual,native
+257,DC_10_SU,DC,10,SU,2023,7/18/2023,"Curtis Drake, Kloe Walter",PHHA,1,0.007,0.667,Phacelia hastata,forb,perennial,native
+258,DC_10_SU,DC,10,SU,2023,7/18/2023,"Curtis Drake, Kloe Walter",SCAN,1,0.007,0.667,Scuttelaria angustifolia ,forb,annual,native
+259,DC_11_SU,DC,11,SU,2023,7/19/2023,Raechel Hunsaker,L,76,0.507,50.667,litter,litter,,
+260,DC_11_SU,DC,11,SU,2023,7/19/2023,Raechel Hunsaker,BRTE,68,0.453,45.333,Bromus tectorum,cheatgrass,annual,introduced
+261,DC_11_SU,DC,11,SU,2023,7/19/2023,Raechel Hunsaker,EPBR,36,0.24,24,Epilobium brachycarpum ,forb,annual,native
+262,DC_11_SU,DC,11,SU,2023,7/19/2023,Raechel Hunsaker,BG,16,0.107,10.667,bare ground,bare ground,,
+263,DC_11_SU,DC,11,SU,2023,7/19/2023,Raechel Hunsaker,PUTR,16,0.107,10.667,Purshia tridentata,shrub,perennial,native
+264,DC_11_SU,DC,11,SU,2023,7/19/2023,Raechel Hunsaker,COPA,12,0.08,8,Collinsia parviflora,forb,annual,native
+265,DC_11_SU,DC,11,SU,2023,7/19/2023,Raechel Hunsaker,CRAC,9,0.06,6,Crepis acuminata,forb,perennial,native
+266,DC_11_SU,DC,11,SU,2023,7/19/2023,Raechel Hunsaker,LECI,8,0.053,5.333,Leymus cinereus,grass,perennial,native
+267,DC_11_SU,DC,11,SU,2023,7/19/2023,Raechel Hunsaker,MAGR,8,0.053,5.333,Madia gracilis,forb,annual,native
+268,DC_11_SU,DC,11,SU,2023,7/19/2023,Raechel Hunsaker,SIAL,6,0.04,4,Sisymbrium altissimum,forb,annual,introduced
+269,DC_11_SU,DC,11,SU,2023,7/19/2023,Raechel Hunsaker,CHDO,5,0.033,3.333,Chaenactis douglasii,forb,perennial,native
+270,DC_11_SU,DC,11,SU,2023,7/19/2023,Raechel Hunsaker,SYRO,5,0.033,3.333,Symphoricarpos rotundifolius,shrub,perennial,native
+271,DC_11_SU,DC,11,SU,2023,7/19/2023,Raechel Hunsaker,LASE,4,0.027,2.667,Lactuca serriola,forb,annual,introduced
+272,DC_11_SU,DC,11,SU,2023,7/19/2023,Raechel Hunsaker,POSE,3,0.02,2,Poa secunda,grass,perennial,native
+273,DC_11_SU,DC,11,SU,2023,7/19/2023,Raechel Hunsaker,TRDU,3,0.02,2,Tragopogon dubius,forb,annual,introduced
+274,DC_11_SU,DC,11,SU,2023,7/19/2023,Raechel Hunsaker,ARTR,2,0.013,1.333,Artemisia tridentata vaseyana,shrub,perennial,native
+275,DC_11_SU,DC,11,SU,2023,7/19/2023,Raechel Hunsaker,FECA,2,0.013,1.333,Festuca campestris,grass,perennial,native
+276,DC_11_SU,DC,11,SU,2023,7/19/2023,Raechel Hunsaker,GAAP,2,0.013,1.333,Galium aparine ,forb,annual,native
+277,DC_11_SU,DC,11,SU,2023,7/19/2023,Raechel Hunsaker,LALO,2,0.013,1.333,Lappula longispina,forb,annual,native
+278,DC_11_SU,DC,11,SU,2023,7/19/2023,Raechel Hunsaker,PHHA,2,0.013,1.333,Phacelia hastata,forb,perennial,native
+279,DC_11_SU,DC,11,SU,2023,7/19/2023,Raechel Hunsaker,PSSP,2,0.013,1.333,Pseudoroegneria spicata,grass,perennial,native
+280,DC_11_SU,DC,11,SU,2023,7/19/2023,Raechel Hunsaker,BASA,1,0.007,0.667,Balsamorhiza sagittata,forb,perennial,native
+281,DC_11_SU,DC,11,SU,2023,7/19/2023,Raechel Hunsaker,BRSI,1,0.007,0.667,Bromus sitchensis,grass,perennial,native
+282,DC_11_SU,DC,11,SU,2023,7/19/2023,Raechel Hunsaker,GEVI,1,0.007,0.667,Geranium viscosissimum,forb,perennial,native
+283,DC_11_SU,DC,11,SU,2023,7/19/2023,Raechel Hunsaker,ILRI,1,0.007,0.667,Iliamna rivularis,forb,perennial,native
+284,DC_11_SU,DC,11,SU,2023,7/19/2023,Raechel Hunsaker,Lomatium,1,0.007,0.667,Lomatium spp,forb,perennial,native
+285,DC_11_SU,DC,11,SU,2023,7/19/2023,Raechel Hunsaker,PRVI,1,0.007,0.667,Prunus virginiana,shrub,perennial,native
+286,DC_12_SU,DC,12,SU,2023,7/19/2023,"Raechel Hunsaker, Jacob Scott",L,116,0.773,77.333,litter,litter,,
+287,DC_12_SU,DC,12,SU,2023,7/19/2023,"Raechel Hunsaker, Jacob Scott",BRTE,61,0.407,40.667,Bromus tectorum,cheatgrass,annual,introduced
+288,DC_12_SU,DC,12,SU,2023,7/19/2023,"Raechel Hunsaker, Jacob Scott",LECI,42,0.28,28,Leymus cinereus,grass,perennial,native
+289,DC_12_SU,DC,12,SU,2023,7/19/2023,"Raechel Hunsaker, Jacob Scott",SYRO,23,0.153,15.333,Symphoricarpos rotundifolius,shrub,perennial,native
+290,DC_12_SU,DC,12,SU,2023,7/19/2023,"Raechel Hunsaker, Jacob Scott",CAGE,22,0.147,14.667,Carex geyeri ,sedge,perennial,native
+291,DC_12_SU,DC,12,SU,2023,7/19/2023,"Raechel Hunsaker, Jacob Scott",BRSI,20,0.133,13.333,Bromus sitchensis,grass,perennial,native
+292,DC_12_SU,DC,12,SU,2023,7/19/2023,"Raechel Hunsaker, Jacob Scott",EPBR,16,0.107,10.667,Epilobium brachycarpum ,forb,annual,native
+293,DC_12_SU,DC,12,SU,2023,7/19/2023,"Raechel Hunsaker, Jacob Scott",PUTR,15,0.1,10,Purshia tridentata,shrub,perennial,native
+294,DC_12_SU,DC,12,SU,2023,7/19/2023,"Raechel Hunsaker, Jacob Scott",PSSP,13,0.087,8.667,Pseudoroegneria spicata,grass,perennial,native
+295,DC_12_SU,DC,12,SU,2023,7/19/2023,"Raechel Hunsaker, Jacob Scott",ILRI,9,0.06,6,Iliamna rivularis,forb,perennial,native
+296,DC_12_SU,DC,12,SU,2023,7/19/2023,"Raechel Hunsaker, Jacob Scott",CRAC,8,0.053,5.333,Crepis acuminata,forb,perennial,native
+297,DC_12_SU,DC,12,SU,2023,7/19/2023,"Raechel Hunsaker, Jacob Scott",TRDU,5,0.033,3.333,Tragopogon dubius,forb,annual,introduced
+298,DC_12_SU,DC,12,SU,2023,7/19/2023,"Raechel Hunsaker, Jacob Scott",CEVE,4,0.027,2.667,Ceanothus velutinus,shrub,perennial,native
+299,DC_12_SU,DC,12,SU,2023,7/19/2023,"Raechel Hunsaker, Jacob Scott",COPA,4,0.027,2.667,Collinsia parviflora,forb,annual,native
+300,DC_12_SU,DC,12,SU,2023,7/19/2023,"Raechel Hunsaker, Jacob Scott",LALO,4,0.027,2.667,Lappula longispina,forb,annual,native
+301,DC_12_SU,DC,12,SU,2023,7/19/2023,"Raechel Hunsaker, Jacob Scott",POSE,4,0.027,2.667,Poa secunda,grass,perennial,native
+302,DC_12_SU,DC,12,SU,2023,7/19/2023,"Raechel Hunsaker, Jacob Scott",BASA,3,0.02,2,Balsamorhiza sagittata,forb,perennial,native
+303,DC_12_SU,DC,12,SU,2023,7/19/2023,"Raechel Hunsaker, Jacob Scott",MARE,3,0.02,2,Mahonia repens,shrub,perennial,native
+304,DC_12_SU,DC,12,SU,2023,7/19/2023,"Raechel Hunsaker, Jacob Scott",ACNE,2,0.013,1.333,Achnatherum nelsonii,grass,perennial,native
+305,DC_12_SU,DC,12,SU,2023,7/19/2023,"Raechel Hunsaker, Jacob Scott",AMAL,2,0.013,1.333,Amelanchier alnifolia,shrub,perennial,native
+306,DC_12_SU,DC,12,SU,2023,7/19/2023,"Raechel Hunsaker, Jacob Scott",CAHO,2,0.013,1.333,Carex hoodii,sedge,perennial,native
+307,DC_12_SU,DC,12,SU,2023,7/19/2023,"Raechel Hunsaker, Jacob Scott",DRAR,2,0.013,1.333,Drymocallis arguta ,forb,perennial,native
+308,DC_12_SU,DC,12,SU,2023,7/19/2023,"Raechel Hunsaker, Jacob Scott",RICE,2,0.013,1.333,Ribes cereum ,shrub,perennial,native
+309,DC_12_SU,DC,12,SU,2023,7/19/2023,"Raechel Hunsaker, Jacob Scott",SIAL,2,0.013,1.333,Sisymbrium altissimum,forb,annual,introduced
+310,DC_12_SU,DC,12,SU,2023,7/19/2023,"Raechel Hunsaker, Jacob Scott",ARTR,1,0.007,0.667,Artemisia tridentata vaseyana,shrub,perennial,native
+311,DC_12_SU,DC,12,SU,2023,7/19/2023,"Raechel Hunsaker, Jacob Scott",BG,1,0.007,0.667,bare ground,bare ground,,
+312,DC_12_SU,DC,12,SU,2023,7/19/2023,"Raechel Hunsaker, Jacob Scott",GAAP,1,0.007,0.667,Galium aparine ,forb,annual,native
+313,DC_12_SU,DC,12,SU,2023,7/19/2023,"Raechel Hunsaker, Jacob Scott",GADI,1,0.007,0.667,Gayophytum diffusum ,forb,annual,native
+314,DC_12_SU,DC,12,SU,2023,7/19/2023,"Raechel Hunsaker, Jacob Scott",LASE,1,0.007,0.667,Lactuca serriola,forb,annual,introduced
+315,DC_12_SU,DC,12,SU,2023,7/19/2023,"Raechel Hunsaker, Jacob Scott",PABR,1,0.007,0.667,Paeonia brownii,forb,perennial,native
+316,DC_12_SU,DC,12,SU,2023,7/19/2023,"Raechel Hunsaker, Jacob Scott",PRVI,1,0.007,0.667,Prunus virginiana,shrub,perennial,native
+317,DC_12_SU,DC,12,SU,2023,7/19/2023,"Raechel Hunsaker, Jacob Scott",SCAN,1,0.007,0.667,Scuttelaria angustifolia ,forb,annual,native
+318,DC_13_FA,DC,13,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",L,103,0.687,68.667,litter,litter,,
+319,DC_13_FA,DC,13,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",BRTE,75,0.5,50,Bromus tectorum,cheatgrass,annual,introduced
+320,DC_13_FA,DC,13,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",PSSP,18,0.12,12,Pseudoroegneria spicata,grass,perennial,native
+321,DC_13_FA,DC,13,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",COPA,17,0.113,11.333,Collinsia parviflora,forb,annual,native
+322,DC_13_FA,DC,13,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",BG,14,0.093,9.333,bare ground,bare ground,,
+323,DC_13_FA,DC,13,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",POSE,10,0.067,6.667,Poa secunda,grass,perennial,native
+324,DC_13_FA,DC,13,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",CHVI,8,0.053,5.333,Chrysothamnus viscidiflorus,shrub,perennial,native
+325,DC_13_FA,DC,13,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",MIGR,7,0.047,4.667,Microsteris gracilis,forb,annual,native
+326,DC_13_FA,DC,13,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",SYRO,6,0.04,4,Symphoricarpos rotundifolius,shrub,perennial,native
+327,DC_13_FA,DC,13,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",DS,4,0.027,2.667,dead shrub,shrub,,
+328,DC_13_FA,DC,13,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",CRAC,3,0.02,2,Crepis acuminata,forb,perennial,native
+329,DC_13_FA,DC,13,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",ERHE,3,0.02,2,Eriogonum heracleoides,forb,perennial,native
+330,DC_13_FA,DC,13,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",PELA,3,0.02,2,Penstemon laxus ,forb,perennial,native
+331,DC_13_FA,DC,13,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",TECA,3,0.02,2,Tetradymia canescens,shrub,perennial,native
+332,DC_13_FA,DC,13,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",BASA,2,0.013,1.333,Balsamorhiza sagittata,forb,perennial,native
+333,DC_13_FA,DC,13,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",ERUM,2,0.013,1.333,Eriogonum umbellatum,forb,perennial,native
+334,DC_13_FA,DC,13,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",LASE,2,0.013,1.333,Lactuca serriola,forb,annual,introduced
+335,DC_13_FA,DC,13,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",LECI,2,0.013,1.333,Leymus cinereus,grass,perennial,native
+336,DC_13_FA,DC,13,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",PRVI,2,0.013,1.333,Prunus virginiana,shrub,perennial,native
+337,DC_13_FA,DC,13,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",PUTR,2,0.013,1.333,Purshia tridentata,shrub,perennial,native
+338,DC_13_FA,DC,13,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",ARTR,1,0.007,0.667,Artemisia tridentata vaseyana,shrub,perennial,native
+339,DC_13_FA,DC,13,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",DEPI,1,0.007,0.667,Descurainia pinnata,forb,annual,native
+340,DC_13_FA,DC,13,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",LODI,1,0.007,0.667,Lomatium dissectum ,forb,perennial,native
+341,DC_13_FA,DC,13,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",LOTR,1,0.007,0.667,Lomatium triternatum,forb,perennial,native
+342,DC_13_FA,DC,13,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",MEBU,1,0.007,0.667,Melica bulbosa,grass,perennial,native
+343,DC_13_FA,DC,13,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",MEDI,1,0.007,0.667,Mentzelia dispersa ,forb,annual,native
+344,DC_13_FA,DC,13,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",SIAL,1,0.007,0.667,Sisymbrium altissimum,forb,annual,introduced
+345,DC_14_FA,DC,14,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",L,128,0.853,85.333,litter,litter,,
+346,DC_14_FA,DC,14,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",BRTE,79,0.527,52.667,Bromus tectorum,cheatgrass,annual,introduced
+347,DC_14_FA,DC,14,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",PSSP,36,0.24,24,Pseudoroegneria spicata,grass,perennial,native
+348,DC_14_FA,DC,14,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",BASA,20,0.133,13.333,Balsamorhiza sagittata,forb,perennial,native
+349,DC_14_FA,DC,14,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",MIGR,19,0.127,12.667,Microsteris gracilis,forb,annual,native
+350,DC_14_FA,DC,14,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",LECI,16,0.107,10.667,Leymus cinereus,grass,perennial,native
+351,DC_14_FA,DC,14,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",SYRO,15,0.1,10,Symphoricarpos rotundifolius,shrub,perennial,native
+352,DC_14_FA,DC,14,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",EPBR,5,0.033,3.333,Epilobium brachycarpum ,forb,annual,native
+353,DC_14_FA,DC,14,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",PUTR,5,0.033,3.333,Purshia tridentata,shrub,perennial,native
+354,DC_14_FA,DC,14,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",COPA,3,0.02,2,Collinsia parviflora,forb,annual,native
+355,DC_14_FA,DC,14,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",LASE,3,0.02,2,Lactuca serriola,forb,annual,introduced
+356,DC_14_FA,DC,14,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",LUAR,3,0.02,2,Lupinus argenteus var. holosericeus ,forb,perennial,native
+357,DC_14_FA,DC,14,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",PHHA,3,0.02,2,Phacelia hastata,forb,perennial,native
+358,DC_14_FA,DC,14,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",POSE,3,0.02,2,Poa secunda,grass,perennial,native
+359,DC_14_FA,DC,14,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",TRDU,3,0.02,2,Tragopogon dubius,forb,annual,introduced
+360,DC_14_FA,DC,14,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",BG,2,0.013,1.333,bare ground,bare ground,,
+361,DC_14_FA,DC,14,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",CRAC,2,0.013,1.333,Crepis acuminata,forb,perennial,native
+362,DC_14_FA,DC,14,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",DESO,2,0.013,1.333,Descurainia sophia ,forb,annual,introduced
+363,DC_14_FA,DC,14,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",PHHO,2,0.013,1.333,Phlox hoodii,forb,perennial,native
+364,DC_14_FA,DC,14,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",BRSI,1,0.007,0.667,Bromus sitchensis,grass,perennial,native
+365,DC_14_FA,DC,14,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",CAMI,1,0.007,0.667,Camelina microcarpa,forb,annual,introduced
+366,DC_14_FA,DC,14,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",CHVI,1,0.007,0.667,Chrysothamnus viscidiflorus,shrub,perennial,native
+367,DC_14_FA,DC,14,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",ERUM,1,0.007,0.667,Eriogonum umbellatum,forb,perennial,native
+368,DC_14_FA,DC,14,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",MEBU,1,0.007,0.667,Melica bulbosa,grass,perennial,native
+369,DC_14_FA,DC,14,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",PODO,1,0.007,0.667,Polygonum douglasii ,forb,annual,native
+370,DC_14_FA,DC,14,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",SIAL,1,0.007,0.667,Sisymbrium altissimum,forb,annual,introduced
+371,DC_14_FA,DC,14,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",W,1,0.007,0.667,wood,wood,,
+372,DC_15_FA,DC,15,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",L,137,0.913,91.333,litter,litter,,
+373,DC_15_FA,DC,15,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",BRTE,68,0.453,45.333,Bromus tectorum,cheatgrass,annual,introduced
+374,DC_15_FA,DC,15,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",PRVI,27,0.18,18,Prunus virginiana,shrub,perennial,native
+375,DC_15_FA,DC,15,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",TRDU,21,0.14,14,Tragopogon dubius,forb,annual,introduced
+376,DC_15_FA,DC,15,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",LECI,16,0.107,10.667,Leymus cinereus,grass,perennial,native
+377,DC_15_FA,DC,15,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",SIAL,16,0.107,10.667,Sisymbrium altissimum,forb,annual,introduced
+378,DC_15_FA,DC,15,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",PODO,11,0.073,7.333,Polygonum douglasii ,forb,annual,native
+379,DC_15_FA,DC,15,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",COPA,8,0.053,5.333,Collinsia parviflora,forb,annual,native
+380,DC_15_FA,DC,15,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",BG,6,0.04,4,bare ground,bare ground,,
+381,DC_15_FA,DC,15,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",LASE,6,0.04,4,Lactuca serriola,forb,annual,introduced
+382,DC_15_FA,DC,15,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",MIGR,5,0.033,3.333,Microsteris gracilis,forb,annual,native
+383,DC_15_FA,DC,15,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",PHHA,5,0.033,3.333,Phacelia hastata,forb,perennial,native
+384,DC_15_FA,DC,15,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",SCAN,5,0.033,3.333,Scuttelaria angustifolia ,forb,annual,native
+385,DC_15_FA,DC,15,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",MEDI,3,0.02,2,Mentzelia dispersa ,forb,annual,native
+386,DC_15_FA,DC,15,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",POSE,3,0.02,2,Poa secunda,grass,perennial,native
+387,DC_15_FA,DC,15,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",PSSP,3,0.02,2,Pseudoroegneria spicata,grass,perennial,native
+388,DC_15_FA,DC,15,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",PUTR,3,0.02,2,Purshia tridentata,shrub,perennial,native
+389,DC_15_FA,DC,15,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",BASA,2,0.013,1.333,Balsamorhiza sagittata,forb,perennial,native
+390,DC_15_FA,DC,15,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",EPBR,2,0.013,1.333,Epilobium brachycarpum ,forb,annual,native
+391,DC_15_FA,DC,15,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",CHJU,1,0.007,0.667,Chondrilla juncea,forb,perennial,introduced
+392,DC_15_FA,DC,15,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",COGR,1,0.007,0.667,Collomia grandiflora ,forb,annual,native
+393,DC_15_FA,DC,15,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",COLI,1,0.007,0.667,Collomia linearis,forb,annual,native
+394,DC_15_FA,DC,15,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",DF,1,0.007,0.667,dead forb,forb,,
+395,DC_15_FA,DC,15,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",DICA,1,0.007,0.667,Dieteria canescens,forb,perennial,native
+396,DC_15_FA,DC,15,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",DS,1,0.007,0.667,dead shrub,shrub,,
+397,DC_15_FA,DC,15,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",LODI,1,0.007,0.667,Lomatium dissectum ,forb,perennial,native
+398,DC_15_FA,DC,15,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",MEBU,1,0.007,0.667,Melica bulbosa,grass,perennial,native
+399,DC_15_FA,DC,15,FA,2023,7/18/2023,"Curtis Drake, Kloe Walter",VIPU,1,0.007,0.667,Viola purpurea,forb,perennial,native
+400,DC_16_FA,DC,16,FA,2023,7/20/2023,"Curtis Drake, Raechel Hunsaker",L,119,0.793,79.333,litter,litter,,
+401,DC_16_FA,DC,16,FA,2023,7/20/2023,"Curtis Drake, Raechel Hunsaker",LECI,57,0.38,38,Leymus cinereus,grass,perennial,native
+402,DC_16_FA,DC,16,FA,2023,7/20/2023,"Curtis Drake, Raechel Hunsaker",BRTE,42,0.28,28,Bromus tectorum,cheatgrass,annual,introduced
+403,DC_16_FA,DC,16,FA,2023,7/20/2023,"Curtis Drake, Raechel Hunsaker",PSSP,36,0.24,24,Pseudoroegneria spicata,grass,perennial,native
+404,DC_16_FA,DC,16,FA,2023,7/20/2023,"Curtis Drake, Raechel Hunsaker",PODO,30,0.2,20,Polygonum douglasii ,forb,annual,native
+405,DC_16_FA,DC,16,FA,2023,7/20/2023,"Curtis Drake, Raechel Hunsaker",COPA,19,0.127,12.667,Collinsia parviflora,forb,annual,native
+406,DC_16_FA,DC,16,FA,2023,7/20/2023,"Curtis Drake, Raechel Hunsaker",EPBR,12,0.08,8,Epilobium brachycarpum ,forb,annual,native
+407,DC_16_FA,DC,16,FA,2023,7/20/2023,"Curtis Drake, Raechel Hunsaker",TRDU,11,0.073,7.333,Tragopogon dubius,forb,annual,introduced
+408,DC_16_FA,DC,16,FA,2023,7/20/2023,"Curtis Drake, Raechel Hunsaker",LASE,7,0.047,4.667,Lactuca serriola,forb,annual,introduced
+409,DC_16_FA,DC,16,FA,2023,7/20/2023,"Curtis Drake, Raechel Hunsaker",BASA,4,0.027,2.667,Balsamorhiza sagittata,forb,perennial,native
+410,DC_16_FA,DC,16,FA,2023,7/20/2023,"Curtis Drake, Raechel Hunsaker",BG,3,0.02,2,bare ground,bare ground,,
+411,DC_16_FA,DC,16,FA,2023,7/20/2023,"Curtis Drake, Raechel Hunsaker",POSE,3,0.02,2,Poa secunda,grass,perennial,native
+412,DC_16_FA,DC,16,FA,2023,7/20/2023,"Curtis Drake, Raechel Hunsaker",SYRO,3,0.02,2,Symphoricarpos rotundifolius,shrub,perennial,native
+413,DC_16_FA,DC,16,FA,2023,7/20/2023,"Curtis Drake, Raechel Hunsaker",HADI,2,0.013,1.333,Hackelia diffusa,forb,perennial,native
+414,DC_16_FA,DC,16,FA,2023,7/20/2023,"Curtis Drake, Raechel Hunsaker",LIRU,2,0.013,1.333,Lithospermum ruderale,forb,perennial,native
+415,DC_16_FA,DC,16,FA,2023,7/20/2023,"Curtis Drake, Raechel Hunsaker",SIAL,2,0.013,1.333,Sisymbrium altissimum,forb,annual,introduced
+416,DC_16_FA,DC,16,FA,2023,7/20/2023,"Curtis Drake, Raechel Hunsaker",ARTR,1,0.007,0.667,Artemisia tridentata vaseyana,shrub,perennial,native
+417,DC_16_FA,DC,16,FA,2023,7/20/2023,"Curtis Drake, Raechel Hunsaker",CRAC,1,0.007,0.667,Crepis acuminata,forb,perennial,native
+418,DC_16_FA,DC,16,FA,2023,7/20/2023,"Curtis Drake, Raechel Hunsaker",DF,1,0.007,0.667,dead forb,forb,,
+419,DC_16_FA,DC,16,FA,2023,7/20/2023,"Curtis Drake, Raechel Hunsaker",GAAP,1,0.007,0.667,Galium aparine ,forb,annual,native
+420,DC_16_FA,DC,16,FA,2023,7/20/2023,"Curtis Drake, Raechel Hunsaker",HISC,1,0.007,0.667,Hieracium scouleri,forb,perennial,native
+421,DC_16_FA,DC,16,FA,2023,7/20/2023,"Curtis Drake, Raechel Hunsaker",MARE,1,0.007,0.667,Mahonia repens,shrub,perennial,native
+422,DC_16_FA,DC,16,FA,2023,7/20/2023,"Curtis Drake, Raechel Hunsaker",PHHA,1,0.007,0.667,Phacelia hastata,forb,perennial,native
+423,DC_16_FA,DC,16,FA,2023,7/20/2023,"Curtis Drake, Raechel Hunsaker",PUTR,1,0.007,0.667,Purshia tridentata,shrub,perennial,native
+424,DC_16_FA,DC,16,FA,2023,7/20/2023,"Curtis Drake, Raechel Hunsaker",SCAN,1,0.007,0.667,Scuttelaria angustifolia ,forb,annual,native
+425,DC_16_FA,DC,16,FA,2023,7/20/2023,"Curtis Drake, Raechel Hunsaker",W,1,0.007,0.667,wood,wood,,
+426,LK_17_SP,LK,17,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",L,109,0.727,72.667,litter,litter,,
+427,LK_17_SP,LK,17,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",BRTE,41,0.273,27.333,Bromus tectorum,cheatgrass,annual,introduced
+428,LK_17_SP,LK,17,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",EPBR,29,0.193,19.333,Epilobium brachycarpum ,forb,annual,native
+429,LK_17_SP,LK,17,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",PSSP,20,0.133,13.333,Pseudoroegneria spicata,grass,perennial,native
+430,LK_17_SP,LK,17,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",ARTR,19,0.127,12.667,Artemisia tridentata vaseyana,shrub,perennial,native
+431,LK_17_SP,LK,17,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",BG,17,0.113,11.333,bare ground,bare ground,,
+432,LK_17_SP,LK,17,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",CEVE,12,0.08,8,Ceanothus velutinus,shrub,perennial,native
+433,LK_17_SP,LK,17,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",PODO,8,0.053,5.333,Polygonum douglasii ,forb,annual,native
+434,LK_17_SP,LK,17,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",CHVI,7,0.047,4.667,Chrysothamnus viscidiflorus,shrub,perennial,native
+435,LK_17_SP,LK,17,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",MAGR,7,0.047,4.667,Madia gracilis,forb,annual,native
+436,LK_17_SP,LK,17,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",PRVI,7,0.047,4.667,Prunus virginiana,shrub,perennial,native
+437,LK_17_SP,LK,17,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",SCAN,7,0.047,4.667,Scuttelaria angustifolia ,forb,annual,native
+438,LK_17_SP,LK,17,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",MIGR,6,0.04,4,Microsteris gracilis,forb,annual,native
+439,LK_17_SP,LK,17,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",MEBU,5,0.033,3.333,Melica bulbosa,grass,perennial,native
+440,LK_17_SP,LK,17,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",OSOC,5,0.033,3.333,Osmorhiza occidentalis,forb,perennial,native
+441,LK_17_SP,LK,17,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",SYRO,5,0.033,3.333,Symphoricarpos rotundifolius,shrub,perennial,native
+442,LK_17_SP,LK,17,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",BRSI,4,0.027,2.667,Bromus sitchensis,grass,perennial,native
+443,LK_17_SP,LK,17,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",LUAR,4,0.027,2.667,Lupinus argenteus var. holosericeus ,forb,perennial,native
+444,LK_17_SP,LK,17,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",PHHA,4,0.027,2.667,Phacelia hastata,forb,perennial,native
+445,LK_17_SP,LK,17,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",TRDU,4,0.027,2.667,Tragopogon dubius,forb,annual,introduced
+446,LK_17_SP,LK,17,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",BASA,3,0.02,2,Balsamorhiza sagittata,forb,perennial,native
+447,LK_17_SP,LK,17,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",COPA,3,0.02,2,Collinsia parviflora,forb,annual,native
+448,LK_17_SP,LK,17,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",LECI,3,0.02,2,Leymus cinereus,grass,perennial,native
+449,LK_17_SP,LK,17,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",AGHE,2,0.013,1.333,Agoseris heterophylla ,forb,annual,native
+450,LK_17_SP,LK,17,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",AMAL,2,0.013,1.333,Amelanchier alnifolia,shrub,perennial,native
+451,LK_17_SP,LK,17,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",LASE,2,0.013,1.333,Lactuca serriola,forb,annual,introduced
+452,LK_17_SP,LK,17,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",ACOC,1,0.007,0.667,Achnatherum occidentale ,grass,perennial,native
+453,LK_17_SP,LK,17,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",AGGL,1,0.007,0.667,Agoseris glauca,forb,perennial,native
+454,LK_17_SP,LK,17,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",CIUN,1,0.007,0.667,Cirsium undulatum,forb,perennial,native
+455,LK_17_SP,LK,17,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",DT,1,0.007,0.667,dead tree,tree,,
+456,LK_17_SP,LK,17,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",HAMI,1,0.007,0.667,Hackelia micrantha,forb,perennial,native
+457,LK_17_SP,LK,17,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",SIAL,1,0.007,0.667,Sisymbrium altissimum,forb,annual,introduced
+458,LK_17_SP,LK,17,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",W,1,0.007,0.667,wood,wood,,
+459,LK_18_SP,LK,18,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",L,87,0.58,58,litter,litter,,
+460,LK_18_SP,LK,18,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",BG,36,0.24,24,bare ground,bare ground,,
+461,LK_18_SP,LK,18,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",PSSP,23,0.153,15.333,Pseudoroegneria spicata,grass,perennial,native
+462,LK_18_SP,LK,18,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",POSE,20,0.133,13.333,Poa secunda,grass,perennial,native
+463,LK_18_SP,LK,18,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",TRDU,14,0.093,9.333,Tragopogon dubius,forb,annual,introduced
+464,LK_18_SP,LK,18,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",BRAR,12,0.08,8,Bromus arvensis,grass,annual,introduced
+465,LK_18_SP,LK,18,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",BASA,10,0.067,6.667,Balsamorhiza sagittata,forb,perennial,native
+466,LK_18_SP,LK,18,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",BRTE,7,0.047,4.667,Bromus tectorum,cheatgrass,annual,introduced
+467,LK_18_SP,LK,18,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",EPBR,5,0.033,3.333,Epilobium brachycarpum ,forb,annual,native
+468,LK_18_SP,LK,18,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",MEBU,5,0.033,3.333,Melica bulbosa,grass,perennial,native
+469,LK_18_SP,LK,18,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",PHHO,5,0.033,3.333,Phlox hoodii,forb,perennial,native
+470,LK_18_SP,LK,18,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",KOMA,3,0.02,2,Koeleria macrantha,grass,perennial,native
+471,LK_18_SP,LK,18,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",LUAR,3,0.02,2,Lupinus argenteus var. holosericeus ,forb,perennial,native
+472,LK_18_SP,LK,18,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",PRVI,3,0.02,2,Prunus virginiana,shrub,perennial,native
+473,LK_18_SP,LK,18,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",CHVI,2,0.013,1.333,Chrysothamnus viscidiflorus,shrub,perennial,native
+474,LK_18_SP,LK,18,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",COPA,2,0.013,1.333,Collinsia parviflora,forb,annual,native
+475,LK_18_SP,LK,18,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",ARTR,1,0.007,0.667,Artemisia tridentata vaseyana,shrub,perennial,native
+476,LK_18_SP,LK,18,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",CEVE,1,0.007,0.667,Ceanothus velutinus,shrub,perennial,native
+477,LK_18_SP,LK,18,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",CRAC,1,0.007,0.667,Crepis acuminata,forb,perennial,native
+478,LK_18_SP,LK,18,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",LOTR,1,0.007,0.667,Lomatium triternatum,forb,perennial,native
+479,LK_18_SP,LK,18,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",SIAL,1,0.007,0.667,Sisymbrium altissimum,forb,annual,introduced
+480,LK_18_SP,LK,18,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",TECA,1,0.007,0.667,Tetradymia canescens,shrub,perennial,native
+481,LK_18_SP,LK,18,SP,2023,7/13/2023,"Curtis Drake, Kloe Walter",TOVE,1,0.007,0.667,Toxicoscordion venenosum,forb,perennial,native
+482,LK_19_SP,LK,19,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",L,84,0.56,56,litter,litter,,
+483,LK_19_SP,LK,19,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",BG,34,0.227,22.667,bare ground,bare ground,,
+484,LK_19_SP,LK,19,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",BRTE,34,0.227,22.667,Bromus tectorum,cheatgrass,annual,introduced
+485,LK_19_SP,LK,19,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",CEVE,11,0.073,7.333,Ceanothus velutinus,shrub,perennial,native
+486,LK_19_SP,LK,19,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",POSE,10,0.067,6.667,Poa secunda,grass,perennial,native
+487,LK_19_SP,LK,19,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",PSSP,10,0.067,6.667,Pseudoroegneria spicata,grass,perennial,native
+488,LK_19_SP,LK,19,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",PUTR,10,0.067,6.667,Purshia tridentata,shrub,perennial,native
+489,LK_19_SP,LK,19,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",PRVI,9,0.06,6,Prunus virginiana,shrub,perennial,native
+490,LK_19_SP,LK,19,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",TRDU,9,0.06,6,Tragopogon dubius,forb,annual,introduced
+491,LK_19_SP,LK,19,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",PHHA,6,0.04,4,Phacelia hastata,forb,perennial,native
+492,LK_19_SP,LK,19,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",EPBR,5,0.033,3.333,Epilobium brachycarpum ,forb,annual,native
+493,LK_19_SP,LK,19,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",SCAN,5,0.033,3.333,Scuttelaria angustifolia ,forb,annual,native
+494,LK_19_SP,LK,19,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",SIAL,4,0.027,2.667,Sisymbrium altissimum,forb,annual,introduced
+495,LK_19_SP,LK,19,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",AMAL,3,0.02,2,Amelanchier alnifolia,shrub,perennial,native
+496,LK_19_SP,LK,19,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",LECI,3,0.02,2,Leymus cinereus,grass,perennial,native
+497,LK_19_SP,LK,19,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",BASA,2,0.013,1.333,Balsamorhiza sagittata,forb,perennial,native
+498,LK_19_SP,LK,19,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",COPA,2,0.013,1.333,Collinsia parviflora,forb,annual,native
+499,LK_19_SP,LK,19,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",GADI,2,0.013,1.333,Gayophytum diffusum ,forb,annual,native
+500,LK_19_SP,LK,19,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",LASE,2,0.013,1.333,Lactuca serriola,forb,annual,introduced
+501,LK_19_SP,LK,19,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",LUAR,2,0.013,1.333,Lupinus argenteus var. holosericeus ,forb,perennial,native
+502,LK_19_SP,LK,19,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",MASA,2,0.013,1.333,Madia sativa ,forb,annual,native
+503,LK_19_SP,LK,19,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",PODO,2,0.013,1.333,Polygonum douglasii ,forb,annual,native
+504,LK_19_SP,LK,19,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",TECA,2,0.013,1.333,Tetradymia canescens,shrub,perennial,native
+505,LK_19_SP,LK,19,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",TOVE,2,0.013,1.333,Toxicoscordion venenosum,forb,perennial,native
+506,LK_19_SP,LK,19,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",ARTR,1,0.007,0.667,Artemisia tridentata vaseyana,shrub,perennial,native
+507,LK_19_SP,LK,19,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",BRAR,1,0.007,0.667,Bromus arvensis,grass,annual,introduced
+508,LK_19_SP,LK,19,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",CHVI,1,0.007,0.667,Chrysothamnus viscidiflorus,shrub,perennial,native
+509,LK_19_SP,LK,19,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",CIUN,1,0.007,0.667,Cirsium undulatum,forb,perennial,native
+510,LK_19_SP,LK,19,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",DEPI,1,0.007,0.667,Descurainia pinnata,forb,annual,native
+511,LK_19_SP,LK,19,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",DICA,1,0.007,0.667,Dieteria canescens,forb,perennial,native
+512,LK_19_SP,LK,19,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",LILE,1,0.007,0.667,Linum lewisii,forb,perennial,native
+513,LK_19_SP,LK,19,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",MAGR,1,0.007,0.667,Madia gracilis,forb,annual,native
+514,LK_19_SP,LK,19,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",MIGR,1,0.007,0.667,Microsteris gracilis,forb,annual,native
+515,LK_19_SP,LK,19,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",VIPU,1,0.007,0.667,Viola purpurea,forb,perennial,native
+516,LK_20_SP,LK,20,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",L,103,0.687,68.667,litter,litter,,
+517,LK_20_SP,LK,20,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",BRTE,42,0.28,28,Bromus tectorum,cheatgrass,annual,introduced
+518,LK_20_SP,LK,20,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",OSOC,16,0.107,10.667,Osmorhiza occidentalis,forb,perennial,native
+519,LK_20_SP,LK,20,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",BG,13,0.087,8.667,bare ground,bare ground,,
+520,LK_20_SP,LK,20,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",PRVI,12,0.08,8,Prunus virginiana,shrub,perennial,native
+521,LK_20_SP,LK,20,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",PUTR,12,0.08,8,Purshia tridentata,shrub,perennial,native
+522,LK_20_SP,LK,20,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",PSSP,11,0.073,7.333,Pseudoroegneria spicata,grass,perennial,native
+523,LK_20_SP,LK,20,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",BASA,10,0.067,6.667,Balsamorhiza sagittata,forb,perennial,native
+524,LK_20_SP,LK,20,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",PHHA,10,0.067,6.667,Phacelia hastata,forb,perennial,native
+525,LK_20_SP,LK,20,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",LUAR,8,0.053,5.333,Lupinus argenteus var. holosericeus ,forb,perennial,native
+526,LK_20_SP,LK,20,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",MAGR,8,0.053,5.333,Madia gracilis,forb,annual,native
+527,LK_20_SP,LK,20,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",SIAL,8,0.053,5.333,Sisymbrium altissimum,forb,annual,introduced
+528,LK_20_SP,LK,20,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",TRDU,8,0.053,5.333,Tragopogon dubius,forb,annual,introduced
+529,LK_20_SP,LK,20,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",EPBR,7,0.047,4.667,Epilobium brachycarpum ,forb,annual,native
+530,LK_20_SP,LK,20,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",COPA,4,0.027,2.667,Collinsia parviflora,forb,annual,native
+531,LK_20_SP,LK,20,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",ERUM,4,0.027,2.667,Eriogonum umbellatum,forb,perennial,native
+532,LK_20_SP,LK,20,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",MIGR,3,0.02,2,Microsteris gracilis,forb,annual,native
+533,LK_20_SP,LK,20,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",POSE,3,0.02,2,Poa secunda,grass,perennial,native
+534,LK_20_SP,LK,20,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",ARTR,2,0.013,1.333,Artemisia tridentata vaseyana,shrub,perennial,native
+535,LK_20_SP,LK,20,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",HEUN,2,0.013,1.333,Helianthella uniflora,forb,perennial,native
+536,LK_20_SP,LK,20,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",HISC,2,0.013,1.333,Hieracium scouleri,forb,perennial,native
+537,LK_20_SP,LK,20,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",MASA,2,0.013,1.333,Madia sativa ,forb,annual,native
+538,LK_20_SP,LK,20,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",PODO,2,0.013,1.333,Polygonum douglasii ,forb,annual,native
+539,LK_20_SP,LK,20,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",AMAL,1,0.007,0.667,Amelanchier alnifolia,shrub,perennial,native
+540,LK_20_SP,LK,20,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",CHVI,1,0.007,0.667,Chrysothamnus viscidiflorus,shrub,perennial,native
+541,LK_20_SP,LK,20,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",ERCI,1,0.007,0.667,Erodium cicutarium,forb,annual,introduced
+542,LK_20_SP,LK,20,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",LASE,1,0.007,0.667,Lactuca serriola,forb,annual,introduced
+543,LK_20_SP,LK,20,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",LILE,1,0.007,0.667,Linum lewisii,forb,perennial,native
+544,LK_20_SP,LK,20,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",LOTR,1,0.007,0.667,Lomatium triternatum,forb,perennial,native
+545,LK_20_SP,LK,20,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",MEBU,1,0.007,0.667,Melica bulbosa,grass,perennial,native
+546,LK_20_SP,LK,20,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",SCAN,1,0.007,0.667,Scuttelaria angustifolia ,forb,annual,native
+547,LK_20_SP,LK,20,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",SYRO,1,0.007,0.667,Symphoricarpos rotundifolius,shrub,perennial,native
+548,LK_20_SP,LK,20,SP,2023,7/14/2023,"Curtis Drake, Kloe Walter",W,1,0.007,0.667,wood,wood,,
+549,LK_21_FASP,LK,21,FASP,2023,7/18/2023,Raechel Hunsaker,BRTE,62,0.413,41.333,Bromus tectorum,cheatgrass,annual,introduced
+550,LK_21_FASP,LK,21,FASP,2023,7/18/2023,Raechel Hunsaker,L,48,0.32,32,litter,litter,,
+551,LK_21_FASP,LK,21,FASP,2023,7/18/2023,Raechel Hunsaker,BG,37,0.247,24.667,bare ground,bare ground,,
+552,LK_21_FASP,LK,21,FASP,2023,7/18/2023,Raechel Hunsaker,SIAL,24,0.16,16,Sisymbrium altissimum,forb,annual,introduced
+553,LK_21_FASP,LK,21,FASP,2023,7/18/2023,Raechel Hunsaker,PSSP,14,0.093,9.333,Pseudoroegneria spicata,grass,perennial,native
+554,LK_21_FASP,LK,21,FASP,2023,7/18/2023,Raechel Hunsaker,EPBR,11,0.073,7.333,Epilobium brachycarpum ,forb,annual,native
+555,LK_21_FASP,LK,21,FASP,2023,7/18/2023,Raechel Hunsaker,PHHA,10,0.067,6.667,Phacelia hastata,forb,perennial,native
+556,LK_21_FASP,LK,21,FASP,2023,7/18/2023,Raechel Hunsaker,GADI,5,0.033,3.333,Gayophytum diffusum ,forb,annual,native
+557,LK_21_FASP,LK,21,FASP,2023,7/18/2023,Raechel Hunsaker,MEAL,3,0.02,2,Mentzelia albicaulis ,forb,annual,native
+558,LK_21_FASP,LK,21,FASP,2023,7/18/2023,Raechel Hunsaker,LECI,2,0.013,1.333,Leymus cinereus,grass,perennial,native
+559,LK_21_FASP,LK,21,FASP,2023,7/18/2023,Raechel Hunsaker,PRVI,2,0.013,1.333,Prunus virginiana,shrub,perennial,native
+560,LK_21_FASP,LK,21,FASP,2023,7/18/2023,Raechel Hunsaker,CIUN,1,0.007,0.667,Cirsium undulatum,forb,perennial,native
+561,LK_21_FASP,LK,21,FASP,2023,7/18/2023,Raechel Hunsaker,LASE,1,0.007,0.667,Lactuca serriola,forb,annual,introduced
+562,LK_21_FASP,LK,21,FASP,2023,7/18/2023,Raechel Hunsaker,MAGR,1,0.007,0.667,Madia gracilis,forb,annual,native
+563,LK_21_FASP,LK,21,FASP,2023,7/18/2023,Raechel Hunsaker,POSE,1,0.007,0.667,Poa secunda,grass,perennial,native
+564,LK_21_FASP,LK,21,FASP,2023,7/18/2023,Raechel Hunsaker,PUTR,1,0.007,0.667,Purshia tridentata,shrub,perennial,native
+565,LK_21_FASP,LK,21,FASP,2023,7/18/2023,Raechel Hunsaker,SCAN,1,0.007,0.667,Scuttelaria angustifolia ,forb,annual,native
+566,LK_21_FASP,LK,21,FASP,2023,7/18/2023,Raechel Hunsaker,SYRO,1,0.007,0.667,Symphoricarpos rotundifolius,shrub,perennial,native
+567,LK_22_FASP,LK,22,FASP,2023,7/18/2023,Raechel Hunsaker,L,74,0.493,49.333,litter,litter,,
+568,LK_22_FASP,LK,22,FASP,2023,7/18/2023,Raechel Hunsaker,BRTE,71,0.473,47.333,Bromus tectorum,cheatgrass,annual,introduced
+569,LK_22_FASP,LK,22,FASP,2023,7/18/2023,Raechel Hunsaker,SIAL,57,0.38,38,Sisymbrium altissimum,forb,annual,introduced
+570,LK_22_FASP,LK,22,FASP,2023,7/18/2023,Raechel Hunsaker,PHHA,19,0.127,12.667,Phacelia hastata,forb,perennial,native
+571,LK_22_FASP,LK,22,FASP,2023,7/18/2023,Raechel Hunsaker,EPBR,11,0.073,7.333,Epilobium brachycarpum ,forb,annual,native
+572,LK_22_FASP,LK,22,FASP,2023,7/18/2023,Raechel Hunsaker,PUTR,11,0.073,7.333,Purshia tridentata,shrub,perennial,native
+573,LK_22_FASP,LK,22,FASP,2023,7/18/2023,Raechel Hunsaker,BG,10,0.067,6.667,bare ground,bare ground,,
+574,LK_22_FASP,LK,22,FASP,2023,7/18/2023,Raechel Hunsaker,PSSP,10,0.067,6.667,Pseudoroegneria spicata,grass,perennial,native
+575,LK_22_FASP,LK,22,FASP,2023,7/18/2023,Raechel Hunsaker,GADI,8,0.053,5.333,Gayophytum diffusum ,forb,annual,native
+576,LK_22_FASP,LK,22,FASP,2023,7/18/2023,Raechel Hunsaker,ILRI,6,0.04,4,Iliamna rivularis,forb,perennial,native
+577,LK_22_FASP,LK,22,FASP,2023,7/18/2023,Raechel Hunsaker,CAMI,5,0.033,3.333,Camelina microcarpa,forb,annual,introduced
+578,LK_22_FASP,LK,22,FASP,2023,7/18/2023,Raechel Hunsaker,SYRO,5,0.033,3.333,Symphoricarpos rotundifolius,shrub,perennial,native
+579,LK_22_FASP,LK,22,FASP,2023,7/18/2023,Raechel Hunsaker,LECI,3,0.02,2,Leymus cinereus,grass,perennial,native
+580,LK_22_FASP,LK,22,FASP,2023,7/18/2023,Raechel Hunsaker,MAGR,3,0.02,2,Madia gracilis,forb,annual,native
+581,LK_22_FASP,LK,22,FASP,2023,7/18/2023,Raechel Hunsaker,POSE,3,0.02,2,Poa secunda,grass,perennial,native
+582,LK_22_FASP,LK,22,FASP,2023,7/18/2023,Raechel Hunsaker,BASA,2,0.013,1.333,Balsamorhiza sagittata,forb,perennial,native
+583,LK_22_FASP,LK,22,FASP,2023,7/18/2023,Raechel Hunsaker,PRVI,2,0.013,1.333,Prunus virginiana,shrub,perennial,native
+584,LK_22_FASP,LK,22,FASP,2023,7/18/2023,Raechel Hunsaker,COPA,1,0.007,0.667,Collinsia parviflora,forb,annual,native
+585,LK_22_FASP,LK,22,FASP,2023,7/18/2023,Raechel Hunsaker,HEUN,1,0.007,0.667,Helianthella uniflora,forb,perennial,native
+586,LK_22_FASP,LK,22,FASP,2023,7/18/2023,Raechel Hunsaker,LALO,1,0.007,0.667,Lappula longispina,forb,annual,native
+587,LK_22_FASP,LK,22,FASP,2023,7/18/2023,Raechel Hunsaker,LASE,1,0.007,0.667,Lactuca serriola,forb,annual,introduced
+588,LK_22_FASP,LK,22,FASP,2023,7/18/2023,Raechel Hunsaker,LUAR,1,0.007,0.667,Lupinus argenteus var. holosericeus ,forb,perennial,native
+589,LK_22_FASP,LK,22,FASP,2023,7/18/2023,Raechel Hunsaker,PIEX,1,0.007,0.667,Piptatheropsis exigua,grass,perennial,native
+590,LK_22_FASP,LK,22,FASP,2023,7/18/2023,Raechel Hunsaker,TRDU,1,0.007,0.667,Tragopogon dubius,forb,annual,introduced
+591,LK_22_FASP,LK,22,FASP,2023,7/18/2023,Raechel Hunsaker,VETH,1,0.007,0.667,Verbascum thapsus,forb,perennial,introduced
+592,LK_23_FASP,LK,23,FASP,2023,7/11/2023,"Mike Mancuso, April Hulet",L,106,0.707,70.667,litter,litter,,
+593,LK_23_FASP,LK,23,FASP,2023,7/11/2023,"Mike Mancuso, April Hulet",BRTE,46,0.307,30.667,Bromus tectorum,cheatgrass,annual,introduced
+594,LK_23_FASP,LK,23,FASP,2023,7/11/2023,"Mike Mancuso, April Hulet",LULE,23,0.153,15.333,Lupinus leucophyllus ,forb,perennial,native
+595,LK_23_FASP,LK,23,FASP,2023,7/11/2023,"Mike Mancuso, April Hulet",POSE,19,0.127,12.667,Poa secunda,grass,perennial,native
+596,LK_23_FASP,LK,23,FASP,2023,7/11/2023,"Mike Mancuso, April Hulet",LECI,16,0.107,10.667,Leymus cinereus,grass,perennial,native
+597,LK_23_FASP,LK,23,FASP,2023,7/11/2023,"Mike Mancuso, April Hulet",GADI,14,0.093,9.333,Gayophytum diffusum ,forb,annual,native
+598,LK_23_FASP,LK,23,FASP,2023,7/11/2023,"Mike Mancuso, April Hulet",PSSP,11,0.073,7.333,Pseudoroegneria spicata,grass,perennial,native
+599,LK_23_FASP,LK,23,FASP,2023,7/11/2023,"Mike Mancuso, April Hulet",KOMA,9,0.06,6,Koeleria macrantha,grass,perennial,native
+600,LK_23_FASP,LK,23,FASP,2023,7/11/2023,"Mike Mancuso, April Hulet",SIAL,9,0.06,6,Sisymbrium altissimum,forb,annual,introduced
+601,LK_23_FASP,LK,23,FASP,2023,7/11/2023,"Mike Mancuso, April Hulet",BG,7,0.047,4.667,bare ground,bare ground,,
+602,LK_23_FASP,LK,23,FASP,2023,7/11/2023,"Mike Mancuso, April Hulet",LALO,7,0.047,4.667,Lappula longispina,forb,annual,native
+603,LK_23_FASP,LK,23,FASP,2023,7/11/2023,"Mike Mancuso, April Hulet",CHVI,5,0.033,3.333,Chrysothamnus viscidiflorus,shrub,perennial,native
+604,LK_23_FASP,LK,23,FASP,2023,7/11/2023,"Mike Mancuso, April Hulet",ACOC,4,0.027,2.667,Achnatherum occidentale ,grass,perennial,native
+605,LK_23_FASP,LK,23,FASP,2023,7/11/2023,"Mike Mancuso, April Hulet",CRAC,4,0.027,2.667,Crepis acuminata,forb,perennial,native
+606,LK_23_FASP,LK,23,FASP,2023,7/11/2023,"Mike Mancuso, April Hulet",EPBR,3,0.02,2,Epilobium brachycarpum ,forb,annual,native
+607,LK_23_FASP,LK,23,FASP,2023,7/11/2023,"Mike Mancuso, April Hulet",HISC,3,0.02,2,Hieracium scouleri,forb,perennial,native
+608,LK_23_FASP,LK,23,FASP,2023,7/11/2023,"Mike Mancuso, April Hulet",ARTR,2,0.013,1.333,Artemisia tridentata vaseyana,shrub,perennial,native
+609,LK_23_FASP,LK,23,FASP,2023,7/11/2023,"Mike Mancuso, April Hulet",PHHA,2,0.013,1.333,Phacelia hastata,forb,perennial,native
+610,LK_23_FASP,LK,23,FASP,2023,7/11/2023,"Mike Mancuso, April Hulet",DICA,1,0.007,0.667,Dieteria canescens,forb,perennial,native
+611,LK_23_FASP,LK,23,FASP,2023,7/11/2023,"Mike Mancuso, April Hulet",LIRU,1,0.007,0.667,Lithospermum ruderale,forb,perennial,native
+612,LK_23_FASP,LK,23,FASP,2023,7/11/2023,"Mike Mancuso, April Hulet",PELA,1,0.007,0.667,Penstemon laxus ,forb,perennial,native
+613,LK_23_FASP,LK,23,FASP,2023,7/11/2023,"Mike Mancuso, April Hulet",POMA,1,0.007,0.667,Polygonum majus ,forb,annual,native
+614,LK_23_FASP,LK,23,FASP,2023,7/11/2023,"Mike Mancuso, April Hulet",PUTR,1,0.007,0.667,Purshia tridentata,shrub,perennial,native
+615,LK_23_FASP,LK,23,FASP,2023,7/11/2023,"Mike Mancuso, April Hulet",TECA,1,0.007,0.667,Tetradymia canescens,shrub,perennial,native
+616,LK_23_FASP,LK,23,FASP,2023,7/11/2023,"Mike Mancuso, April Hulet",W,1,0.007,0.667,wood,wood,,
+617,LK_24_FASP,LK,24,FASP,2023,7/12/2023,"April Hulet, Raechel Hunsaker",L,99,0.66,66,litter,litter,,
+618,LK_24_FASP,LK,24,FASP,2023,7/12/2023,"April Hulet, Raechel Hunsaker",BRTE,87,0.58,58,Bromus tectorum,cheatgrass,annual,introduced
+619,LK_24_FASP,LK,24,FASP,2023,7/12/2023,"April Hulet, Raechel Hunsaker",GADI,14,0.093,9.333,Gayophytum diffusum ,forb,annual,native
+620,LK_24_FASP,LK,24,FASP,2023,7/12/2023,"April Hulet, Raechel Hunsaker",PRVI,14,0.093,9.333,Prunus virginiana,shrub,perennial,native
+621,LK_24_FASP,LK,24,FASP,2023,7/12/2023,"April Hulet, Raechel Hunsaker",EPBR,11,0.073,7.333,Epilobium brachycarpum ,forb,annual,native
+622,LK_24_FASP,LK,24,FASP,2023,7/12/2023,"April Hulet, Raechel Hunsaker",LECI,11,0.073,7.333,Leymus cinereus,grass,perennial,native
+623,LK_24_FASP,LK,24,FASP,2023,7/12/2023,"April Hulet, Raechel Hunsaker",PHHA,8,0.053,5.333,Phacelia hastata,forb,perennial,native
+624,LK_24_FASP,LK,24,FASP,2023,7/12/2023,"April Hulet, Raechel Hunsaker",BG,7,0.047,4.667,bare ground,bare ground,,
+625,LK_24_FASP,LK,24,FASP,2023,7/12/2023,"April Hulet, Raechel Hunsaker",SIAL,6,0.04,4,Sisymbrium altissimum,forb,annual,introduced
+626,LK_24_FASP,LK,24,FASP,2023,7/12/2023,"April Hulet, Raechel Hunsaker",SCAN,5,0.033,3.333,Scuttelaria angustifolia ,forb,annual,native
+627,LK_24_FASP,LK,24,FASP,2023,7/12/2023,"April Hulet, Raechel Hunsaker",ACOC,4,0.027,2.667,Achnatherum occidentale ,grass,perennial,native
+628,LK_24_FASP,LK,24,FASP,2023,7/12/2023,"April Hulet, Raechel Hunsaker",PSSP,4,0.027,2.667,Pseudoroegneria spicata,grass,perennial,native
+629,LK_24_FASP,LK,24,FASP,2023,7/12/2023,"April Hulet, Raechel Hunsaker",PUTR,4,0.027,2.667,Purshia tridentata,shrub,perennial,native
+630,LK_24_FASP,LK,24,FASP,2023,7/12/2023,"April Hulet, Raechel Hunsaker",ARTR,3,0.02,2,Artemisia tridentata vaseyana,shrub,perennial,native
+631,LK_24_FASP,LK,24,FASP,2023,7/12/2023,"April Hulet, Raechel Hunsaker",CAGE,3,0.02,2,Carex geyeri ,sedge,perennial,native
+632,LK_24_FASP,LK,24,FASP,2023,7/12/2023,"April Hulet, Raechel Hunsaker",ACMI,2,0.013,1.333,Achillea millefolium,forb,perennial,native
+633,LK_24_FASP,LK,24,FASP,2023,7/12/2023,"April Hulet, Raechel Hunsaker",ILRI,2,0.013,1.333,Iliamna rivularis,forb,perennial,native
+634,LK_24_FASP,LK,24,FASP,2023,7/12/2023,"April Hulet, Raechel Hunsaker",CHDO,1,0.007,0.667,Chaenactis douglasii,forb,perennial,native
+635,LK_24_FASP,LK,24,FASP,2023,7/12/2023,"April Hulet, Raechel Hunsaker",CICY,1,0.007,0.667,Cirsium cymosum ,forb,perennial,introduced
+636,LK_24_FASP,LK,24,FASP,2023,7/12/2023,"April Hulet, Raechel Hunsaker",COGR,1,0.007,0.667,Collomia grandiflora ,forb,annual,native
+637,LK_24_FASP,LK,24,FASP,2023,7/12/2023,"April Hulet, Raechel Hunsaker",CRTO,1,0.007,0.667,Cryptantha torreyana,forb,annual,native
+638,LK_24_FASP,LK,24,FASP,2023,7/12/2023,"April Hulet, Raechel Hunsaker",DS,1,0.007,0.667,dead shrub,shrub,,
+639,LK_24_FASP,LK,24,FASP,2023,7/12/2023,"April Hulet, Raechel Hunsaker",FEID,1,0.007,0.667,Festuca idahoensis,grass,perennial,native
+640,LK_24_FASP,LK,24,FASP,2023,7/12/2023,"April Hulet, Raechel Hunsaker",HISC,1,0.007,0.667,Hieracium scouleri,forb,perennial,native
+641,LK_24_FASP,LK,24,FASP,2023,7/12/2023,"April Hulet, Raechel Hunsaker",KOMA,1,0.007,0.667,Koeleria macrantha,grass,perennial,native
+642,LK_24_FASP,LK,24,FASP,2023,7/12/2023,"April Hulet, Raechel Hunsaker",MEBU,1,0.007,0.667,Melica bulbosa,grass,perennial,native
+643,LK_24_FASP,LK,24,FASP,2023,7/12/2023,"April Hulet, Raechel Hunsaker",POSE,1,0.007,0.667,Poa secunda,grass,perennial,native
+644,LK_25_SU,LK,25,SU,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",BRTE,45,0.3,30,Bromus tectorum,cheatgrass,annual,introduced
+645,LK_25_SU,LK,25,SU,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",L,39,0.26,26,litter,litter,,
+646,LK_25_SU,LK,25,SU,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",BG,31,0.207,20.667,bare ground,bare ground,,
+647,LK_25_SU,LK,25,SU,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",COPA,18,0.12,12,Collinsia parviflora,forb,annual,native
+648,LK_25_SU,LK,25,SU,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",PSSP,18,0.12,12,Pseudoroegneria spicata,grass,perennial,native
+649,LK_25_SU,LK,25,SU,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",MAGR,12,0.08,8,Madia gracilis,forb,annual,native
+650,LK_25_SU,LK,25,SU,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",PUTR,12,0.08,8,Purshia tridentata,shrub,perennial,native
+651,LK_25_SU,LK,25,SU,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",AGHE,8,0.053,5.333,Agoseris heterophylla ,forb,annual,native
+652,LK_25_SU,LK,25,SU,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",KOMA,8,0.053,5.333,Koeleria macrantha,grass,perennial,native
+653,LK_25_SU,LK,25,SU,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",POSE,8,0.053,5.333,Poa secunda,grass,perennial,native
+654,LK_25_SU,LK,25,SU,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",TECA,8,0.053,5.333,Tetradymia canescens,shrub,perennial,native
+655,LK_25_SU,LK,25,SU,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",ACOC,4,0.027,2.667,Achnatherum occidentale ,grass,perennial,native
+656,LK_25_SU,LK,25,SU,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",BASA,4,0.027,2.667,Balsamorhiza sagittata,forb,perennial,native
+657,LK_25_SU,LK,25,SU,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",SIAL,3,0.02,2,Sisymbrium altissimum,forb,annual,introduced
+658,LK_25_SU,LK,25,SU,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",TOVE,3,0.02,2,Toxicoscordion venenosum,forb,perennial,native
+659,LK_25_SU,LK,25,SU,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",CHVI,2,0.013,1.333,Chrysothamnus viscidiflorus,shrub,perennial,native
+660,LK_25_SU,LK,25,SU,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",FEID,2,0.013,1.333,Festuca idahoensis,grass,perennial,native
+661,LK_25_SU,LK,25,SU,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",PHHO,2,0.013,1.333,Phlox hoodii,forb,perennial,native
+662,LK_25_SU,LK,25,SU,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",ARTR,1,0.007,0.667,Artemisia tridentata vaseyana,shrub,perennial,native
+663,LK_25_SU,LK,25,SU,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",Allium,1,0.007,0.667,Allium spp,forb,perennial,native
+664,LK_25_SU,LK,25,SU,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",CAMI,1,0.007,0.667,Camelina microcarpa,forb,annual,introduced
+665,LK_25_SU,LK,25,SU,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",ERAC,1,0.007,0.667,Eremogone aculeata,forb,perennial,native
+666,LK_25_SU,LK,25,SU,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",ERUM,1,0.007,0.667,Eriogonum umbellatum,forb,perennial,native
+667,LK_25_SU,LK,25,SU,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",HISC,1,0.007,0.667,Hieracium scouleri,forb,perennial,native
+668,LK_25_SU,LK,25,SU,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",LASE,1,0.007,0.667,Lactuca serriola,forb,annual,introduced
+669,LK_25_SU,LK,25,SU,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",LUAR,1,0.007,0.667,Lupinus argenteus var. holosericeus ,forb,perennial,native
+670,LK_25_SU,LK,25,SU,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",MIGR,1,0.007,0.667,Microsteris gracilis,forb,annual,native
+671,LK_25_SU,LK,25,SU,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",SYRO,1,0.007,0.667,Symphoricarpos rotundifolius,shrub,perennial,native
+672,LK_25_SU,LK,25,SU,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",VIPU,1,0.007,0.667,Viola purpurea,forb,perennial,native
+673,LK_25_SU,LK,25,SU,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",unknown borage,1,0.007,0.667,unknown borage,forb,,
+674,LK_25_SU,LK,25,SU,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",unknown grass,1,0.007,0.667,unknown grass,grass,,
+675,LK_25_SU,LK,25,SU,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",unknown mustard,1,0.007,0.667,unknown mustard,forb,,
+676,LK_26_SU,LK,26,SU,2023,7/6/2023,"Kerry Byrne, Kloe Walter, Kelly Hopping",BRTE,84,0.56,56,Bromus tectorum,cheatgrass,annual,introduced
+677,LK_26_SU,LK,26,SU,2023,7/6/2023,"Kerry Byrne, Kloe Walter, Kelly Hopping",L,73,0.487,48.667,litter,litter,,
+678,LK_26_SU,LK,26,SU,2023,7/6/2023,"Kerry Byrne, Kloe Walter, Kelly Hopping",SYRO,41,0.273,27.333,Symphoricarpos rotundifolius,shrub,perennial,native
+679,LK_26_SU,LK,26,SU,2023,7/6/2023,"Kerry Byrne, Kloe Walter, Kelly Hopping",PSSP,19,0.127,12.667,Pseudoroegneria spicata,grass,perennial,native
+680,LK_26_SU,LK,26,SU,2023,7/6/2023,"Kerry Byrne, Kloe Walter, Kelly Hopping",BASA,17,0.113,11.333,Balsamorhiza sagittata,forb,perennial,native
+681,LK_26_SU,LK,26,SU,2023,7/6/2023,"Kerry Byrne, Kloe Walter, Kelly Hopping",ARTR,15,0.1,10,Artemisia tridentata vaseyana,shrub,perennial,native
+682,LK_26_SU,LK,26,SU,2023,7/6/2023,"Kerry Byrne, Kloe Walter, Kelly Hopping",LECI,15,0.1,10,Leymus cinereus,grass,perennial,native
+683,LK_26_SU,LK,26,SU,2023,7/6/2023,"Kerry Byrne, Kloe Walter, Kelly Hopping",COPA,11,0.073,7.333,Collinsia parviflora,forb,annual,native
+684,LK_26_SU,LK,26,SU,2023,7/6/2023,"Kerry Byrne, Kloe Walter, Kelly Hopping",PRVI,7,0.047,4.667,Prunus virginiana,shrub,perennial,native
+685,LK_26_SU,LK,26,SU,2023,7/6/2023,"Kerry Byrne, Kloe Walter, Kelly Hopping",BG,6,0.04,4,bare ground,bare ground,,
+686,LK_26_SU,LK,26,SU,2023,7/6/2023,"Kerry Byrne, Kloe Walter, Kelly Hopping",MARE,5,0.033,3.333,Mahonia repens,shrub,perennial,native
+687,LK_26_SU,LK,26,SU,2023,7/6/2023,"Kerry Byrne, Kloe Walter, Kelly Hopping",POSE,5,0.033,3.333,Poa secunda,grass,perennial,native
+688,LK_26_SU,LK,26,SU,2023,7/6/2023,"Kerry Byrne, Kloe Walter, Kelly Hopping",PHHA,4,0.027,2.667,Phacelia hastata,forb,perennial,native
+689,LK_26_SU,LK,26,SU,2023,7/6/2023,"Kerry Byrne, Kloe Walter, Kelly Hopping",SCAN,3,0.02,2,Scuttelaria angustifolia ,forb,annual,native
+690,LK_26_SU,LK,26,SU,2023,7/6/2023,"Kerry Byrne, Kloe Walter, Kelly Hopping",CRAC,2,0.013,1.333,Crepis acuminata,forb,perennial,native
+691,LK_26_SU,LK,26,SU,2023,7/6/2023,"Kerry Byrne, Kloe Walter, Kelly Hopping",EPBR,2,0.013,1.333,Epilobium brachycarpum ,forb,annual,native
+692,LK_26_SU,LK,26,SU,2023,7/6/2023,"Kerry Byrne, Kloe Walter, Kelly Hopping",PUTR,2,0.013,1.333,Purshia tridentata,shrub,perennial,native
+693,LK_26_SU,LK,26,SU,2023,7/6/2023,"Kerry Byrne, Kloe Walter, Kelly Hopping",SIAL,2,0.013,1.333,Sisymbrium altissimum,forb,annual,introduced
+694,LK_26_SU,LK,26,SU,2023,7/6/2023,"Kerry Byrne, Kloe Walter, Kelly Hopping",VIPU,2,0.013,1.333,Viola purpurea,forb,perennial,native
+695,LK_26_SU,LK,26,SU,2023,7/6/2023,"Kerry Byrne, Kloe Walter, Kelly Hopping",AGUR,1,0.007,0.667,Agastache urticifolia,forb,perennial,native
+696,LK_26_SU,LK,26,SU,2023,7/6/2023,"Kerry Byrne, Kloe Walter, Kelly Hopping",CAGE,1,0.007,0.667,Carex geyeri ,sedge,perennial,native
+697,LK_26_SU,LK,26,SU,2023,7/6/2023,"Kerry Byrne, Kloe Walter, Kelly Hopping",CHFR,1,0.007,0.667,Chenopodium fremontii ,forb,annual,native
+698,LK_26_SU,LK,26,SU,2023,7/6/2023,"Kerry Byrne, Kloe Walter, Kelly Hopping",GEVI,1,0.007,0.667,Geranium viscosissimum,forb,perennial,native
+699,LK_26_SU,LK,26,SU,2023,7/6/2023,"Kerry Byrne, Kloe Walter, Kelly Hopping",HAPA,1,0.007,0.667,Hackelia patens ,forb,perennial,native
+700,LK_26_SU,LK,26,SU,2023,7/6/2023,"Kerry Byrne, Kloe Walter, Kelly Hopping",LUAR,1,0.007,0.667,Lupinus argenteus var. holosericeus ,forb,perennial,native
+701,LK_26_SU,LK,26,SU,2023,7/6/2023,"Kerry Byrne, Kloe Walter, Kelly Hopping",SIDO,1,0.007,0.667,Silene douglasii,forb,perennial,native
+702,LK_27_SU,LK,27,SU,2023,7/6/2023,"Kerry Byrne, Kelly Hopping",L,90,0.6,60,litter,litter,,
+703,LK_27_SU,LK,27,SU,2023,7/6/2023,"Kerry Byrne, Kelly Hopping",BRTE,35,0.233,23.333,Bromus tectorum,cheatgrass,annual,introduced
+704,LK_27_SU,LK,27,SU,2023,7/6/2023,"Kerry Byrne, Kelly Hopping",BG,29,0.193,19.333,bare ground,bare ground,,
+705,LK_27_SU,LK,27,SU,2023,7/6/2023,"Kerry Byrne, Kelly Hopping",PSSP,24,0.16,16,Pseudoroegneria spicata,grass,perennial,native
+706,LK_27_SU,LK,27,SU,2023,7/6/2023,"Kerry Byrne, Kelly Hopping",PUTR,14,0.093,9.333,Purshia tridentata,shrub,perennial,native
+707,LK_27_SU,LK,27,SU,2023,7/6/2023,"Kerry Byrne, Kelly Hopping",ARTR,11,0.073,7.333,Artemisia tridentata vaseyana,shrub,perennial,native
+708,LK_27_SU,LK,27,SU,2023,7/6/2023,"Kerry Byrne, Kelly Hopping",CEVE,8,0.053,5.333,Ceanothus velutinus,shrub,perennial,native
+709,LK_27_SU,LK,27,SU,2023,7/6/2023,"Kerry Byrne, Kelly Hopping",LECI,6,0.04,4,Leymus cinereus,grass,perennial,native
+710,LK_27_SU,LK,27,SU,2023,7/6/2023,"Kerry Byrne, Kelly Hopping",POSE,6,0.04,4,Poa secunda,grass,perennial,native
+711,LK_27_SU,LK,27,SU,2023,7/6/2023,"Kerry Byrne, Kelly Hopping",BASA,5,0.033,3.333,Balsamorhiza sagittata,forb,perennial,native
+712,LK_27_SU,LK,27,SU,2023,7/6/2023,"Kerry Byrne, Kelly Hopping",MEBU,5,0.033,3.333,Melica bulbosa,grass,perennial,native
+713,LK_27_SU,LK,27,SU,2023,7/6/2023,"Kerry Byrne, Kelly Hopping",COPA,4,0.027,2.667,Collinsia parviflora,forb,annual,native
+714,LK_27_SU,LK,27,SU,2023,7/6/2023,"Kerry Byrne, Kelly Hopping",SYRO,4,0.027,2.667,Symphoricarpos rotundifolius,shrub,perennial,native
+715,LK_27_SU,LK,27,SU,2023,7/6/2023,"Kerry Byrne, Kelly Hopping",SCAN,3,0.02,2,Scuttelaria angustifolia ,forb,annual,native
+716,LK_27_SU,LK,27,SU,2023,7/6/2023,"Kerry Byrne, Kelly Hopping",GEVI,2,0.013,1.333,Geranium viscosissimum,forb,perennial,native
+717,LK_27_SU,LK,27,SU,2023,7/6/2023,"Kerry Byrne, Kelly Hopping",HAPA,2,0.013,1.333,Hackelia patens ,forb,perennial,native
+718,LK_27_SU,LK,27,SU,2023,7/6/2023,"Kerry Byrne, Kelly Hopping",CHFR,1,0.007,0.667,Chenopodium fremontii ,forb,annual,native
+719,LK_27_SU,LK,27,SU,2023,7/6/2023,"Kerry Byrne, Kelly Hopping",CRAM,1,0.007,0.667,Cryptantha ambigua ,forb,annual,native
+720,LK_27_SU,LK,27,SU,2023,7/6/2023,"Kerry Byrne, Kelly Hopping",EPBR,1,0.007,0.667,Epilobium brachycarpum ,forb,annual,native
+721,LK_27_SU,LK,27,SU,2023,7/6/2023,"Kerry Byrne, Kelly Hopping",HEUN,1,0.007,0.667,Helianthella uniflora,forb,perennial,native
+722,LK_27_SU,LK,27,SU,2023,7/6/2023,"Kerry Byrne, Kelly Hopping",KOMA,1,0.007,0.667,Koeleria macrantha,grass,perennial,native
+723,LK_27_SU,LK,27,SU,2023,7/6/2023,"Kerry Byrne, Kelly Hopping",PHHA,1,0.007,0.667,Phacelia hastata,forb,perennial,native
+724,LK_27_SU,LK,27,SU,2023,7/6/2023,"Kerry Byrne, Kelly Hopping",SIAL,1,0.007,0.667,Sisymbrium altissimum,forb,annual,introduced
+725,LK_27_SU,LK,27,SU,2023,7/6/2023,"Kerry Byrne, Kelly Hopping",VIPU,1,0.007,0.667,Viola purpurea,forb,perennial,native
+726,LK_28_SU,LK,28,SU,2023,7/12/2023,"April Hulet, Raechel Hunsaker",L,91,0.607,60.667,litter,litter,,
+727,LK_28_SU,LK,28,SU,2023,7/12/2023,"April Hulet, Raechel Hunsaker",CEVE,42,0.28,28,Ceanothus velutinus,shrub,perennial,native
+728,LK_28_SU,LK,28,SU,2023,7/12/2023,"April Hulet, Raechel Hunsaker",BRTE,31,0.207,20.667,Bromus tectorum,cheatgrass,annual,introduced
+729,LK_28_SU,LK,28,SU,2023,7/12/2023,"April Hulet, Raechel Hunsaker",BG,16,0.107,10.667,bare ground,bare ground,,
+730,LK_28_SU,LK,28,SU,2023,7/12/2023,"April Hulet, Raechel Hunsaker",SCAN,12,0.08,8,Scuttelaria angustifolia ,forb,annual,native
+731,LK_28_SU,LK,28,SU,2023,7/12/2023,"April Hulet, Raechel Hunsaker",GAAP,10,0.067,6.667,Galium aparine ,forb,annual,native
+732,LK_28_SU,LK,28,SU,2023,7/12/2023,"April Hulet, Raechel Hunsaker",PUTR,9,0.06,6,Purshia tridentata,shrub,perennial,native
+733,LK_28_SU,LK,28,SU,2023,7/12/2023,"April Hulet, Raechel Hunsaker",PRVI,8,0.053,5.333,Prunus virginiana,shrub,perennial,native
+734,LK_28_SU,LK,28,SU,2023,7/12/2023,"April Hulet, Raechel Hunsaker",EPBR,7,0.047,4.667,Epilobium brachycarpum ,forb,annual,native
+735,LK_28_SU,LK,28,SU,2023,7/12/2023,"April Hulet, Raechel Hunsaker",LECI,7,0.047,4.667,Leymus cinereus,grass,perennial,native
+736,LK_28_SU,LK,28,SU,2023,7/12/2023,"April Hulet, Raechel Hunsaker",POSE,7,0.047,4.667,Poa secunda,grass,perennial,native
+737,LK_28_SU,LK,28,SU,2023,7/12/2023,"April Hulet, Raechel Hunsaker",SYRO,7,0.047,4.667,Symphoricarpos rotundifolius,shrub,perennial,native
+738,LK_28_SU,LK,28,SU,2023,7/12/2023,"April Hulet, Raechel Hunsaker",GADI,6,0.04,4,Gayophytum diffusum ,forb,annual,native
+739,LK_28_SU,LK,28,SU,2023,7/12/2023,"April Hulet, Raechel Hunsaker",PSSP,6,0.04,4,Pseudoroegneria spicata,grass,perennial,native
+740,LK_28_SU,LK,28,SU,2023,7/12/2023,"April Hulet, Raechel Hunsaker",ARTR,5,0.033,3.333,Artemisia tridentata vaseyana,shrub,perennial,native
+741,LK_28_SU,LK,28,SU,2023,7/12/2023,"April Hulet, Raechel Hunsaker",MEDI,4,0.027,2.667,Mentzelia dispersa ,forb,annual,native
+742,LK_28_SU,LK,28,SU,2023,7/12/2023,"April Hulet, Raechel Hunsaker",PHHA,4,0.027,2.667,Phacelia hastata,forb,perennial,native
+743,LK_28_SU,LK,28,SU,2023,7/12/2023,"April Hulet, Raechel Hunsaker",COPA,2,0.013,1.333,Collinsia parviflora,forb,annual,native
+744,LK_28_SU,LK,28,SU,2023,7/12/2023,"April Hulet, Raechel Hunsaker",SIAL,2,0.013,1.333,Sisymbrium altissimum,forb,annual,introduced
+745,LK_28_SU,LK,28,SU,2023,7/12/2023,"April Hulet, Raechel Hunsaker",CHFR,1,0.007,0.667,Chenopodium fremontii ,forb,annual,native
+746,LK_28_SU,LK,28,SU,2023,7/12/2023,"April Hulet, Raechel Hunsaker",GARA,1,0.007,0.667,Gayophytum racemosum,forb,annual,native
+747,LK_28_SU,LK,28,SU,2023,7/12/2023,"April Hulet, Raechel Hunsaker",Lupinus,1,0.007,0.667,Lupinus spp,forb,perennial,native
+748,LK_28_SU,LK,28,SU,2023,7/12/2023,"April Hulet, Raechel Hunsaker",PIEX,1,0.007,0.667,Piptatheropsis exigua,grass,perennial,native
+749,LK_29_FA,LK,29,FA,2023,7/11/2023,"Curtis Drake, Kelly Hopping, Mallory Hinton",L,106,0.707,70.667,litter,litter,,
+750,LK_29_FA,LK,29,FA,2023,7/11/2023,"Curtis Drake, Kelly Hopping, Mallory Hinton",BRTE,50,0.333,33.333,Bromus tectorum,cheatgrass,annual,introduced
+751,LK_29_FA,LK,29,FA,2023,7/11/2023,"Curtis Drake, Kelly Hopping, Mallory Hinton",TRDU,18,0.12,12,Tragopogon dubius,forb,annual,introduced
+752,LK_29_FA,LK,29,FA,2023,7/11/2023,"Curtis Drake, Kelly Hopping, Mallory Hinton",POSE,16,0.107,10.667,Poa secunda,grass,perennial,native
+753,LK_29_FA,LK,29,FA,2023,7/11/2023,"Curtis Drake, Kelly Hopping, Mallory Hinton",COPA,13,0.087,8.667,Collinsia parviflora,forb,annual,native
+754,LK_29_FA,LK,29,FA,2023,7/11/2023,"Curtis Drake, Kelly Hopping, Mallory Hinton",PSSP,13,0.087,8.667,Pseudoroegneria spicata,grass,perennial,native
+755,LK_29_FA,LK,29,FA,2023,7/11/2023,"Curtis Drake, Kelly Hopping, Mallory Hinton",BG,12,0.08,8,bare ground,bare ground,,
+756,LK_29_FA,LK,29,FA,2023,7/11/2023,"Curtis Drake, Kelly Hopping, Mallory Hinton",EPBR,12,0.08,8,Epilobium brachycarpum ,forb,annual,native
+757,LK_29_FA,LK,29,FA,2023,7/11/2023,"Curtis Drake, Kelly Hopping, Mallory Hinton",MAGR,12,0.08,8,Madia gracilis,forb,annual,native
+758,LK_29_FA,LK,29,FA,2023,7/11/2023,"Curtis Drake, Kelly Hopping, Mallory Hinton",LUAR,11,0.073,7.333,Lupinus argenteus var. holosericeus ,forb,perennial,native
+759,LK_29_FA,LK,29,FA,2023,7/11/2023,"Curtis Drake, Kelly Hopping, Mallory Hinton",SIAL,9,0.06,6,Sisymbrium altissimum,forb,annual,introduced
+760,LK_29_FA,LK,29,FA,2023,7/11/2023,"Curtis Drake, Kelly Hopping, Mallory Hinton",PUTR,7,0.047,4.667,Purshia tridentata,shrub,perennial,native
+761,LK_29_FA,LK,29,FA,2023,7/11/2023,"Curtis Drake, Kelly Hopping, Mallory Hinton",SCAN,7,0.047,4.667,Scuttelaria angustifolia ,forb,annual,native
+762,LK_29_FA,LK,29,FA,2023,7/11/2023,"Curtis Drake, Kelly Hopping, Mallory Hinton",MIGR,6,0.04,4,Microsteris gracilis,forb,annual,native
+763,LK_29_FA,LK,29,FA,2023,7/11/2023,"Curtis Drake, Kelly Hopping, Mallory Hinton",PODO,6,0.04,4,Polygonum douglasii ,forb,annual,native
+764,LK_29_FA,LK,29,FA,2023,7/11/2023,"Curtis Drake, Kelly Hopping, Mallory Hinton",AGGL,5,0.033,3.333,Agoseris glauca,forb,perennial,native
+765,LK_29_FA,LK,29,FA,2023,7/11/2023,"Curtis Drake, Kelly Hopping, Mallory Hinton",COLI,3,0.02,2,Collomia linearis,forb,annual,native
+766,LK_29_FA,LK,29,FA,2023,7/11/2023,"Curtis Drake, Kelly Hopping, Mallory Hinton",BRSI,2,0.013,1.333,Bromus sitchensis,grass,perennial,native
+767,LK_29_FA,LK,29,FA,2023,7/11/2023,"Curtis Drake, Kelly Hopping, Mallory Hinton",MEBU,2,0.013,1.333,Melica bulbosa,grass,perennial,native
+768,LK_29_FA,LK,29,FA,2023,7/11/2023,"Curtis Drake, Kelly Hopping, Mallory Hinton",POPR,2,0.013,1.333,Poa pratensis,grass,perennial,both
+769,LK_29_FA,LK,29,FA,2023,7/11/2023,"Curtis Drake, Kelly Hopping, Mallory Hinton",W,2,0.013,1.333,wood,wood,,
+770,LK_29_FA,LK,29,FA,2023,7/11/2023,"Curtis Drake, Kelly Hopping, Mallory Hinton",BASA,1,0.007,0.667,Balsamorhiza sagittata,forb,perennial,native
+771,LK_29_FA,LK,29,FA,2023,7/11/2023,"Curtis Drake, Kelly Hopping, Mallory Hinton",DICA,1,0.007,0.667,Dieteria canescens,forb,perennial,native
+772,LK_29_FA,LK,29,FA,2023,7/11/2023,"Curtis Drake, Kelly Hopping, Mallory Hinton",HEUN,1,0.007,0.667,Helianthella uniflora,forb,perennial,native
+773,LK_29_FA,LK,29,FA,2023,7/11/2023,"Curtis Drake, Kelly Hopping, Mallory Hinton",LASE,1,0.007,0.667,Lactuca serriola,forb,annual,introduced
+774,LK_29_FA,LK,29,FA,2023,7/11/2023,"Curtis Drake, Kelly Hopping, Mallory Hinton",LECI,1,0.007,0.667,Leymus cinereus,grass,perennial,native
+775,LK_29_FA,LK,29,FA,2023,7/11/2023,"Curtis Drake, Kelly Hopping, Mallory Hinton",PHHA,1,0.007,0.667,Phacelia hastata,forb,perennial,native
+776,LK_29_FA,LK,29,FA,2023,7/11/2023,"Curtis Drake, Kelly Hopping, Mallory Hinton",VIPU,1,0.007,0.667,Viola purpurea,forb,perennial,native
+777,LK_30_FA,LK,30,FA,2023,7/17/2023,"Raechel Hunsaker, Jacob Scott",L,109,0.727,72.667,litter,litter,,
+778,LK_30_FA,LK,30,FA,2023,7/17/2023,"Raechel Hunsaker, Jacob Scott",BRTE,85,0.567,56.667,Bromus tectorum,cheatgrass,annual,introduced
+779,LK_30_FA,LK,30,FA,2023,7/17/2023,"Raechel Hunsaker, Jacob Scott",SIAL,31,0.207,20.667,Sisymbrium altissimum,forb,annual,introduced
+780,LK_30_FA,LK,30,FA,2023,7/17/2023,"Raechel Hunsaker, Jacob Scott",EPBR,24,0.16,16,Epilobium brachycarpum ,forb,annual,native
+781,LK_30_FA,LK,30,FA,2023,7/17/2023,"Raechel Hunsaker, Jacob Scott",GADI,14,0.093,9.333,Gayophytum diffusum ,forb,annual,native
+782,LK_30_FA,LK,30,FA,2023,7/17/2023,"Raechel Hunsaker, Jacob Scott",PSSP,13,0.087,8.667,Pseudoroegneria spicata,grass,perennial,native
+783,LK_30_FA,LK,30,FA,2023,7/17/2023,"Raechel Hunsaker, Jacob Scott",LASE,12,0.08,8,Lactuca serriola,forb,annual,introduced
+784,LK_30_FA,LK,30,FA,2023,7/17/2023,"Raechel Hunsaker, Jacob Scott",PUTR,10,0.067,6.667,Purshia tridentata,shrub,perennial,native
+785,LK_30_FA,LK,30,FA,2023,7/17/2023,"Raechel Hunsaker, Jacob Scott",LECI,8,0.053,5.333,Leymus cinereus,grass,perennial,native
+786,LK_30_FA,LK,30,FA,2023,7/17/2023,"Raechel Hunsaker, Jacob Scott",LULE,7,0.047,4.667,Lupinus leucophyllus ,forb,perennial,native
+787,LK_30_FA,LK,30,FA,2023,7/17/2023,"Raechel Hunsaker, Jacob Scott",MAGR,6,0.04,4,Madia gracilis,forb,annual,native
+788,LK_30_FA,LK,30,FA,2023,7/17/2023,"Raechel Hunsaker, Jacob Scott",MEBU,5,0.033,3.333,Melica bulbosa,grass,perennial,native
+789,LK_30_FA,LK,30,FA,2023,7/17/2023,"Raechel Hunsaker, Jacob Scott",POSE,5,0.033,3.333,Poa secunda,grass,perennial,native
+790,LK_30_FA,LK,30,FA,2023,7/17/2023,"Raechel Hunsaker, Jacob Scott",PRVI,5,0.033,3.333,Prunus virginiana,shrub,perennial,native
+791,LK_30_FA,LK,30,FA,2023,7/17/2023,"Raechel Hunsaker, Jacob Scott",TRDU,5,0.033,3.333,Tragopogon dubius,forb,annual,introduced
+792,LK_30_FA,LK,30,FA,2023,7/17/2023,"Raechel Hunsaker, Jacob Scott",VETH,5,0.033,3.333,Verbascum thapsus,forb,perennial,introduced
+793,LK_30_FA,LK,30,FA,2023,7/17/2023,"Raechel Hunsaker, Jacob Scott",SCAN,4,0.027,2.667,Scuttelaria angustifolia ,forb,annual,native
+794,LK_30_FA,LK,30,FA,2023,7/17/2023,"Raechel Hunsaker, Jacob Scott",BG,3,0.02,2,bare ground,bare ground,,
+795,LK_30_FA,LK,30,FA,2023,7/17/2023,"Raechel Hunsaker, Jacob Scott",CAMI,3,0.02,2,Camelina microcarpa,forb,annual,introduced
+796,LK_30_FA,LK,30,FA,2023,7/17/2023,"Raechel Hunsaker, Jacob Scott",ERNA,3,0.02,2,Ericameria nauseosa,shrub,perennial,native
+797,LK_30_FA,LK,30,FA,2023,7/17/2023,"Raechel Hunsaker, Jacob Scott",PHHA,2,0.013,1.333,Phacelia hastata,forb,perennial,native
+798,LK_30_FA,LK,30,FA,2023,7/17/2023,"Raechel Hunsaker, Jacob Scott",ACTH,1,0.007,0.667,Achnatherum thurberianum ,grass,perennial,native
+799,LK_30_FA,LK,30,FA,2023,7/17/2023,"Raechel Hunsaker, Jacob Scott",BASA,1,0.007,0.667,Balsamorhiza sagittata,forb,perennial,native
+800,LK_30_FA,LK,30,FA,2023,7/17/2023,"Raechel Hunsaker, Jacob Scott",CEVE,1,0.007,0.667,Ceanothus velutinus,shrub,perennial,native
+801,LK_30_FA,LK,30,FA,2023,7/17/2023,"Raechel Hunsaker, Jacob Scott",CRAC,1,0.007,0.667,Crepis acuminata,forb,perennial,native
+802,LK_30_FA,LK,30,FA,2023,7/17/2023,"Raechel Hunsaker, Jacob Scott",LALO,1,0.007,0.667,Lappula longispina,forb,annual,native
+803,LK_31_FA,LK,31,FA,2023,7/17/2023,"Curtis Drake, Kloe Walter",L,122,0.813,81.333,litter,litter,,
+804,LK_31_FA,LK,31,FA,2023,7/17/2023,"Curtis Drake, Kloe Walter",BRTE,50,0.333,33.333,Bromus tectorum,cheatgrass,annual,introduced
+805,LK_31_FA,LK,31,FA,2023,7/17/2023,"Curtis Drake, Kloe Walter",PUTR,20,0.133,13.333,Purshia tridentata,shrub,perennial,native
+806,LK_31_FA,LK,31,FA,2023,7/17/2023,"Curtis Drake, Kloe Walter",MARE,15,0.1,10,Mahonia repens,shrub,perennial,native
+807,LK_31_FA,LK,31,FA,2023,7/17/2023,"Curtis Drake, Kloe Walter",PSSP,15,0.1,10,Pseudoroegneria spicata,grass,perennial,native
+808,LK_31_FA,LK,31,FA,2023,7/17/2023,"Curtis Drake, Kloe Walter",GADI,14,0.093,9.333,Gayophytum diffusum ,forb,annual,native
+809,LK_31_FA,LK,31,FA,2023,7/17/2023,"Curtis Drake, Kloe Walter",POSE,12,0.08,8,Poa secunda,grass,perennial,native
+810,LK_31_FA,LK,31,FA,2023,7/17/2023,"Curtis Drake, Kloe Walter",PRVI,12,0.08,8,Prunus virginiana,shrub,perennial,native
+811,LK_31_FA,LK,31,FA,2023,7/17/2023,"Curtis Drake, Kloe Walter",PHHA,10,0.067,6.667,Phacelia hastata,forb,perennial,native
+812,LK_31_FA,LK,31,FA,2023,7/17/2023,"Curtis Drake, Kloe Walter",PODO,10,0.067,6.667,Polygonum douglasii ,forb,annual,native
+813,LK_31_FA,LK,31,FA,2023,7/17/2023,"Curtis Drake, Kloe Walter",SYRO,10,0.067,6.667,Symphoricarpos rotundifolius,shrub,perennial,native
+814,LK_31_FA,LK,31,FA,2023,7/17/2023,"Curtis Drake, Kloe Walter",BRAR,9,0.06,6,Bromus arvensis,grass,annual,introduced
+815,LK_31_FA,LK,31,FA,2023,7/17/2023,"Curtis Drake, Kloe Walter",LUAR,9,0.06,6,Lupinus argenteus var. holosericeus ,forb,perennial,native
+816,LK_31_FA,LK,31,FA,2023,7/17/2023,"Curtis Drake, Kloe Walter",MEBU,8,0.053,5.333,Melica bulbosa,grass,perennial,native
+817,LK_31_FA,LK,31,FA,2023,7/17/2023,"Curtis Drake, Kloe Walter",BG,6,0.04,4,bare ground,bare ground,,
+818,LK_31_FA,LK,31,FA,2023,7/17/2023,"Curtis Drake, Kloe Walter",MAGR,6,0.04,4,Madia gracilis,forb,annual,native
+819,LK_31_FA,LK,31,FA,2023,7/17/2023,"Curtis Drake, Kloe Walter",EPBR,5,0.033,3.333,Epilobium brachycarpum ,forb,annual,native
+820,LK_31_FA,LK,31,FA,2023,7/17/2023,"Curtis Drake, Kloe Walter",SCAN,5,0.033,3.333,Scuttelaria angustifolia ,forb,annual,native
+821,LK_31_FA,LK,31,FA,2023,7/17/2023,"Curtis Drake, Kloe Walter",DICA,4,0.027,2.667,Dieteria canescens,forb,perennial,native
+822,LK_31_FA,LK,31,FA,2023,7/17/2023,"Curtis Drake, Kloe Walter",ARTR,3,0.02,2,Artemisia tridentata vaseyana,shrub,perennial,native
+823,LK_31_FA,LK,31,FA,2023,7/17/2023,"Curtis Drake, Kloe Walter",HISC,3,0.02,2,Hieracium scouleri,forb,perennial,native
+824,LK_31_FA,LK,31,FA,2023,7/17/2023,"Curtis Drake, Kloe Walter",ACOC,2,0.013,1.333,Achnatherum occidentale ,grass,perennial,native
+825,LK_31_FA,LK,31,FA,2023,7/17/2023,"Curtis Drake, Kloe Walter",BASA,2,0.013,1.333,Balsamorhiza sagittata,forb,perennial,native
+826,LK_31_FA,LK,31,FA,2023,7/17/2023,"Curtis Drake, Kloe Walter",CAGE,2,0.013,1.333,Carex geyeri ,sedge,perennial,native
+827,LK_31_FA,LK,31,FA,2023,7/17/2023,"Curtis Drake, Kloe Walter",COPA,2,0.013,1.333,Collinsia parviflora,forb,annual,native
+828,LK_31_FA,LK,31,FA,2023,7/17/2023,"Curtis Drake, Kloe Walter",LALO,2,0.013,1.333,Lappula longispina,forb,annual,native
+829,LK_31_FA,LK,31,FA,2023,7/17/2023,"Curtis Drake, Kloe Walter",LECI,2,0.013,1.333,Leymus cinereus,grass,perennial,native
+830,LK_31_FA,LK,31,FA,2023,7/17/2023,"Curtis Drake, Kloe Walter",CHFR,1,0.007,0.667,Chenopodium fremontii ,forb,annual,native
+831,LK_31_FA,LK,31,FA,2023,7/17/2023,"Curtis Drake, Kloe Walter",CHVI,1,0.007,0.667,Chrysothamnus viscidiflorus,shrub,perennial,native
+832,LK_31_FA,LK,31,FA,2023,7/17/2023,"Curtis Drake, Kloe Walter",COLI,1,0.007,0.667,Collomia linearis,forb,annual,native
+833,LK_31_FA,LK,31,FA,2023,7/17/2023,"Curtis Drake, Kloe Walter",DESO,1,0.007,0.667,Descurainia sophia ,forb,annual,introduced
+834,LK_31_FA,LK,31,FA,2023,7/17/2023,"Curtis Drake, Kloe Walter",DRGL,1,0.007,0.667,Drymocallis glandulosa,forb,perennial,native
+835,LK_31_FA,LK,31,FA,2023,7/17/2023,"Curtis Drake, Kloe Walter",FEID,1,0.007,0.667,Festuca idahoensis,grass,perennial,native
+836,LK_31_FA,LK,31,FA,2023,7/17/2023,"Curtis Drake, Kloe Walter",MIGR,1,0.007,0.667,Microsteris gracilis,forb,annual,native
+837,LK_31_FA,LK,31,FA,2023,7/17/2023,"Curtis Drake, Kloe Walter",PELA,1,0.007,0.667,Penstemon laxus ,forb,perennial,native
+838,LK_32_FA,LK,32,FA,2023,7/18/2022,"Raechel Hunsaker, Mallory Hinton",L,105,0.7,70,litter,litter,,
+839,LK_32_FA,LK,32,FA,2023,7/18/2022,"Raechel Hunsaker, Mallory Hinton",BRTE,73,0.487,48.667,Bromus tectorum,cheatgrass,annual,introduced
+840,LK_32_FA,LK,32,FA,2023,7/18/2022,"Raechel Hunsaker, Mallory Hinton",POSE,30,0.2,20,Poa secunda,grass,perennial,native
+841,LK_32_FA,LK,32,FA,2023,7/18/2022,"Raechel Hunsaker, Mallory Hinton",GADI,25,0.167,16.667,Gayophytum diffusum ,forb,annual,native
+842,LK_32_FA,LK,32,FA,2023,7/18/2022,"Raechel Hunsaker, Mallory Hinton",EPBR,21,0.14,14,Epilobium brachycarpum ,forb,annual,native
+843,LK_32_FA,LK,32,FA,2023,7/18/2022,"Raechel Hunsaker, Mallory Hinton",PUTR,21,0.14,14,Purshia tridentata,shrub,perennial,native
+844,LK_32_FA,LK,32,FA,2023,7/18/2022,"Raechel Hunsaker, Mallory Hinton",SIAL,18,0.12,12,Sisymbrium altissimum,forb,annual,introduced
+845,LK_32_FA,LK,32,FA,2023,7/18/2022,"Raechel Hunsaker, Mallory Hinton",TRDU,10,0.067,6.667,Tragopogon dubius,forb,annual,introduced
+846,LK_32_FA,LK,32,FA,2023,7/18/2022,"Raechel Hunsaker, Mallory Hinton",PHHA,9,0.06,6,Phacelia hastata,forb,perennial,native
+847,LK_32_FA,LK,32,FA,2023,7/18/2022,"Raechel Hunsaker, Mallory Hinton",PSSP,9,0.06,6,Pseudoroegneria spicata,grass,perennial,native
+848,LK_32_FA,LK,32,FA,2023,7/18/2022,"Raechel Hunsaker, Mallory Hinton",COPA,7,0.047,4.667,Collinsia parviflora,forb,annual,native
+849,LK_32_FA,LK,32,FA,2023,7/18/2022,"Raechel Hunsaker, Mallory Hinton",LUAR,7,0.047,4.667,Lupinus argenteus var. holosericeus ,forb,perennial,native
+850,LK_32_FA,LK,32,FA,2023,7/18/2022,"Raechel Hunsaker, Mallory Hinton",ALDE,6,0.04,4,Alyssum desertorum,forb,annual,introduced
+851,LK_32_FA,LK,32,FA,2023,7/18/2022,"Raechel Hunsaker, Mallory Hinton",BASA,3,0.02,2,Balsamorhiza sagittata,forb,perennial,native
+852,LK_32_FA,LK,32,FA,2023,7/18/2022,"Raechel Hunsaker, Mallory Hinton",CAMI,3,0.02,2,Camelina microcarpa,forb,annual,introduced
+853,LK_32_FA,LK,32,FA,2023,7/18/2022,"Raechel Hunsaker, Mallory Hinton",BRAR,2,0.013,1.333,Bromus arvensis,grass,annual,introduced
+854,LK_32_FA,LK,32,FA,2023,7/18/2022,"Raechel Hunsaker, Mallory Hinton",HISC,2,0.013,1.333,Hieracium scouleri,forb,perennial,native
+855,LK_32_FA,LK,32,FA,2023,7/18/2022,"Raechel Hunsaker, Mallory Hinton",LALO,2,0.013,1.333,Lappula longispina,forb,annual,native
+856,LK_32_FA,LK,32,FA,2023,7/18/2022,"Raechel Hunsaker, Mallory Hinton",LASE,2,0.013,1.333,Lactuca serriola,forb,annual,introduced
+857,LK_32_FA,LK,32,FA,2023,7/18/2022,"Raechel Hunsaker, Mallory Hinton",MAGR,2,0.013,1.333,Madia gracilis,forb,annual,native
+858,LK_32_FA,LK,32,FA,2023,7/18/2022,"Raechel Hunsaker, Mallory Hinton",PRVI,2,0.013,1.333,Prunus virginiana,shrub,perennial,native
+859,LK_32_FA,LK,32,FA,2023,7/18/2022,"Raechel Hunsaker, Mallory Hinton",SCAN,2,0.013,1.333,Scuttelaria angustifolia ,forb,annual,native
+860,LK_32_FA,LK,32,FA,2023,7/18/2022,"Raechel Hunsaker, Mallory Hinton",SYRO,2,0.013,1.333,Symphoricarpos rotundifolius,shrub,perennial,native
+861,LK_32_FA,LK,32,FA,2023,7/18/2022,"Raechel Hunsaker, Mallory Hinton",ACNE,1,0.007,0.667,Achnatherum nelsonii,grass,perennial,native
+862,LK_32_FA,LK,32,FA,2023,7/18/2022,"Raechel Hunsaker, Mallory Hinton",ARTR,1,0.007,0.667,Artemisia tridentata vaseyana,shrub,perennial,native
+863,LK_32_FA,LK,32,FA,2023,7/18/2022,"Raechel Hunsaker, Mallory Hinton",KOMA,1,0.007,0.667,Koeleria macrantha,grass,perennial,native
+864,LK_32_FA,LK,32,FA,2023,7/18/2022,"Raechel Hunsaker, Mallory Hinton",LECI,1,0.007,0.667,Leymus cinereus,grass,perennial,native
+865,LK_33_SP Seed bank,LK,33,SP Seed bank,2023,7/13/2023,"Curtis Drake, Kloe Walter, Maddi Sorrentino",L,133,0.887,88.667,litter,litter,,
+866,LK_33_SP Seed bank,LK,33,SP Seed bank,2023,7/13/2023,"Curtis Drake, Kloe Walter, Maddi Sorrentino",PRVI,40,0.267,26.667,Prunus virginiana,shrub,perennial,native
+867,LK_33_SP Seed bank,LK,33,SP Seed bank,2023,7/13/2023,"Curtis Drake, Kloe Walter, Maddi Sorrentino",PSSP,36,0.24,24,Pseudoroegneria spicata,grass,perennial,native
+868,LK_33_SP Seed bank,LK,33,SP Seed bank,2023,7/13/2023,"Curtis Drake, Kloe Walter, Maddi Sorrentino",BRTE,30,0.2,20,Bromus tectorum,cheatgrass,annual,introduced
+869,LK_33_SP Seed bank,LK,33,SP Seed bank,2023,7/13/2023,"Curtis Drake, Kloe Walter, Maddi Sorrentino",ARTR,22,0.147,14.667,Artemisia tridentata vaseyana,shrub,perennial,native
+870,LK_33_SP Seed bank,LK,33,SP Seed bank,2023,7/13/2023,"Curtis Drake, Kloe Walter, Maddi Sorrentino",MEBU,16,0.107,10.667,Melica bulbosa,grass,perennial,native
+871,LK_33_SP Seed bank,LK,33,SP Seed bank,2023,7/13/2023,"Curtis Drake, Kloe Walter, Maddi Sorrentino",SYRO,15,0.1,10,Symphoricarpos rotundifolius,shrub,perennial,native
+872,LK_33_SP Seed bank,LK,33,SP Seed bank,2023,7/13/2023,"Curtis Drake, Kloe Walter, Maddi Sorrentino",MARE,12,0.08,8,Mahonia repens,shrub,perennial,native
+873,LK_33_SP Seed bank,LK,33,SP Seed bank,2023,7/13/2023,"Curtis Drake, Kloe Walter, Maddi Sorrentino",MAGR,10,0.067,6.667,Madia gracilis,forb,annual,native
+874,LK_33_SP Seed bank,LK,33,SP Seed bank,2023,7/13/2023,"Curtis Drake, Kloe Walter, Maddi Sorrentino",COPA,9,0.06,6,Collinsia parviflora,forb,annual,native
+875,LK_33_SP Seed bank,LK,33,SP Seed bank,2023,7/13/2023,"Curtis Drake, Kloe Walter, Maddi Sorrentino",LUAR,8,0.053,5.333,Lupinus argenteus var. holosericeus ,forb,perennial,native
+876,LK_33_SP Seed bank,LK,33,SP Seed bank,2023,7/13/2023,"Curtis Drake, Kloe Walter, Maddi Sorrentino",HISC,7,0.047,4.667,Hieracium scouleri,forb,perennial,native
+877,LK_33_SP Seed bank,LK,33,SP Seed bank,2023,7/13/2023,"Curtis Drake, Kloe Walter, Maddi Sorrentino",POSE,7,0.047,4.667,Poa secunda,grass,perennial,native
+878,LK_33_SP Seed bank,LK,33,SP Seed bank,2023,7/13/2023,"Curtis Drake, Kloe Walter, Maddi Sorrentino",CHVI,6,0.04,4,Chrysothamnus viscidiflorus,shrub,perennial,native
+879,LK_33_SP Seed bank,LK,33,SP Seed bank,2023,7/13/2023,"Curtis Drake, Kloe Walter, Maddi Sorrentino",PODO,5,0.033,3.333,Polygonum douglasii ,forb,annual,native
+880,LK_33_SP Seed bank,LK,33,SP Seed bank,2023,7/13/2023,"Curtis Drake, Kloe Walter, Maddi Sorrentino",BG,4,0.027,2.667,bare ground,bare ground,,
+881,LK_33_SP Seed bank,LK,33,SP Seed bank,2023,7/13/2023,"Curtis Drake, Kloe Walter, Maddi Sorrentino",EPBR,4,0.027,2.667,Epilobium brachycarpum ,forb,annual,native
+882,LK_33_SP Seed bank,LK,33,SP Seed bank,2023,7/13/2023,"Curtis Drake, Kloe Walter, Maddi Sorrentino",SCAN,4,0.027,2.667,Scuttelaria angustifolia ,forb,annual,native
+883,LK_33_SP Seed bank,LK,33,SP Seed bank,2023,7/13/2023,"Curtis Drake, Kloe Walter, Maddi Sorrentino",TRDU,4,0.027,2.667,Tragopogon dubius,forb,annual,introduced
+884,LK_33_SP Seed bank,LK,33,SP Seed bank,2023,7/13/2023,"Curtis Drake, Kloe Walter, Maddi Sorrentino",BRSI,3,0.02,2,Bromus sitchensis,grass,perennial,native
+885,LK_33_SP Seed bank,LK,33,SP Seed bank,2023,7/13/2023,"Curtis Drake, Kloe Walter, Maddi Sorrentino",PHHA,3,0.02,2,Phacelia hastata,forb,perennial,native
+886,LK_33_SP Seed bank,LK,33,SP Seed bank,2023,7/13/2023,"Curtis Drake, Kloe Walter, Maddi Sorrentino",BASA,2,0.013,1.333,Balsamorhiza sagittata,forb,perennial,native
+887,LK_33_SP Seed bank,LK,33,SP Seed bank,2023,7/13/2023,"Curtis Drake, Kloe Walter, Maddi Sorrentino",DRAR,2,0.013,1.333,Drymocallis arguta ,forb,perennial,native
+888,LK_33_SP Seed bank,LK,33,SP Seed bank,2023,7/13/2023,"Curtis Drake, Kloe Walter, Maddi Sorrentino",HEUN,2,0.013,1.333,Helianthella uniflora,forb,perennial,native
+889,LK_33_SP Seed bank,LK,33,SP Seed bank,2023,7/13/2023,"Curtis Drake, Kloe Walter, Maddi Sorrentino",PELA,2,0.013,1.333,Penstemon laxus ,forb,perennial,native
+890,LK_33_SP Seed bank,LK,33,SP Seed bank,2023,7/13/2023,"Curtis Drake, Kloe Walter, Maddi Sorrentino",ROWO,2,0.013,1.333,Rosa woodsii,shrub,perennial,native
+891,LK_33_SP Seed bank,LK,33,SP Seed bank,2023,7/13/2023,"Curtis Drake, Kloe Walter, Maddi Sorrentino",ACMI,1,0.007,0.667,Achillea millefolium,forb,perennial,native
+892,LK_33_SP Seed bank,LK,33,SP Seed bank,2023,7/13/2023,"Curtis Drake, Kloe Walter, Maddi Sorrentino",ACNE,1,0.007,0.667,Achnatherum nelsonii,grass,perennial,native
+893,LK_33_SP Seed bank,LK,33,SP Seed bank,2023,7/13/2023,"Curtis Drake, Kloe Walter, Maddi Sorrentino",ACOC,1,0.007,0.667,Achnatherum occidentale ,grass,perennial,native
+894,LK_33_SP Seed bank,LK,33,SP Seed bank,2023,7/13/2023,"Curtis Drake, Kloe Walter, Maddi Sorrentino",BRAR,1,0.007,0.667,Bromus arvensis,grass,annual,introduced
+895,LK_33_SP Seed bank,LK,33,SP Seed bank,2023,7/13/2023,"Curtis Drake, Kloe Walter, Maddi Sorrentino",CEVE,1,0.007,0.667,Ceanothus velutinus,shrub,perennial,native
+896,LK_33_SP Seed bank,LK,33,SP Seed bank,2023,7/13/2023,"Curtis Drake, Kloe Walter, Maddi Sorrentino",DICA,1,0.007,0.667,Dieteria canescens,forb,perennial,native
+897,LK_33_SP Seed bank,LK,33,SP Seed bank,2023,7/13/2023,"Curtis Drake, Kloe Walter, Maddi Sorrentino",LECI,1,0.007,0.667,Leymus cinereus,grass,perennial,native
+898,LK_33_SP Seed bank,LK,33,SP Seed bank,2023,7/13/2023,"Curtis Drake, Kloe Walter, Maddi Sorrentino",MIGR,1,0.007,0.667,Microsteris gracilis,forb,annual,native
+899,LK_33_SP Seed bank,LK,33,SP Seed bank,2023,7/13/2023,"Curtis Drake, Kloe Walter, Maddi Sorrentino",SYCA,1,0.007,0.667,Symphyotrichum campestre,forb,perennial,native
+900,LK_33_SP Seed bank,LK,33,SP Seed bank,2023,7/13/2023,"Curtis Drake, Kloe Walter, Maddi Sorrentino",unknown forb,1,0.007,0.667,unknown forb,forb,,
+901,LK_34_FASP Seed bank,LK,34,FASP Seed bank,2023,7/11/2023,"April Hulet, Lilly Wilson, Mike Mancuso, Maddi Sorrentino",L,113,0.753,75.333,litter,litter,,
+902,LK_34_FASP Seed bank,LK,34,FASP Seed bank,2023,7/11/2023,"April Hulet, Lilly Wilson, Mike Mancuso, Maddi Sorrentino",KOMA,31,0.207,20.667,Koeleria macrantha,grass,perennial,native
+903,LK_34_FASP Seed bank,LK,34,FASP Seed bank,2023,7/11/2023,"April Hulet, Lilly Wilson, Mike Mancuso, Maddi Sorrentino",POSE,22,0.147,14.667,Poa secunda,grass,perennial,native
+904,LK_34_FASP Seed bank,LK,34,FASP Seed bank,2023,7/11/2023,"April Hulet, Lilly Wilson, Mike Mancuso, Maddi Sorrentino",CHVI,18,0.12,12,Chrysothamnus viscidiflorus,shrub,perennial,native
+905,LK_34_FASP Seed bank,LK,34,FASP Seed bank,2023,7/11/2023,"April Hulet, Lilly Wilson, Mike Mancuso, Maddi Sorrentino",PSSP,18,0.12,12,Pseudoroegneria spicata,grass,perennial,native
+906,LK_34_FASP Seed bank,LK,34,FASP Seed bank,2023,7/11/2023,"April Hulet, Lilly Wilson, Mike Mancuso, Maddi Sorrentino",BG,17,0.113,11.333,bare ground,bare ground,,
+907,LK_34_FASP Seed bank,LK,34,FASP Seed bank,2023,7/11/2023,"April Hulet, Lilly Wilson, Mike Mancuso, Maddi Sorrentino",FEID,16,0.107,10.667,Festuca idahoensis,grass,perennial,native
+908,LK_34_FASP Seed bank,LK,34,FASP Seed bank,2023,7/11/2023,"April Hulet, Lilly Wilson, Mike Mancuso, Maddi Sorrentino",Lupinus,15,0.1,10,Lupinus spp,forb,perennial,native
+909,LK_34_FASP Seed bank,LK,34,FASP Seed bank,2023,7/11/2023,"April Hulet, Lilly Wilson, Mike Mancuso, Maddi Sorrentino",ARTR,5,0.033,3.333,Artemisia tridentata vaseyana,shrub,perennial,native
+910,LK_34_FASP Seed bank,LK,34,FASP Seed bank,2023,7/11/2023,"April Hulet, Lilly Wilson, Mike Mancuso, Maddi Sorrentino",LECI,5,0.033,3.333,Leymus cinereus,grass,perennial,native
+911,LK_34_FASP Seed bank,LK,34,FASP Seed bank,2023,7/11/2023,"April Hulet, Lilly Wilson, Mike Mancuso, Maddi Sorrentino",HEUN,4,0.027,2.667,Helianthella uniflora,forb,perennial,native
+912,LK_34_FASP Seed bank,LK,34,FASP Seed bank,2023,7/11/2023,"April Hulet, Lilly Wilson, Mike Mancuso, Maddi Sorrentino",BRTE,3,0.02,2,Bromus tectorum,cheatgrass,annual,introduced
+913,LK_34_FASP Seed bank,LK,34,FASP Seed bank,2023,7/11/2023,"April Hulet, Lilly Wilson, Mike Mancuso, Maddi Sorrentino",ACTH,2,0.013,1.333,Achnatherum thurberianum ,grass,perennial,native
+914,LK_34_FASP Seed bank,LK,34,FASP Seed bank,2023,7/11/2023,"April Hulet, Lilly Wilson, Mike Mancuso, Maddi Sorrentino",CORA,2,0.013,1.333,Cordylanthus ramosus,forb,annual,native
+915,LK_34_FASP Seed bank,LK,34,FASP Seed bank,2023,7/11/2023,"April Hulet, Lilly Wilson, Mike Mancuso, Maddi Sorrentino",DS,2,0.013,1.333,dead shrub,shrub,,
+916,LK_34_FASP Seed bank,LK,34,FASP Seed bank,2023,7/11/2023,"April Hulet, Lilly Wilson, Mike Mancuso, Maddi Sorrentino",EPBR,2,0.013,1.333,Epilobium brachycarpum ,forb,annual,native
+917,LK_34_FASP Seed bank,LK,34,FASP Seed bank,2023,7/11/2023,"April Hulet, Lilly Wilson, Mike Mancuso, Maddi Sorrentino",ERUM,2,0.013,1.333,Eriogonum umbellatum,forb,perennial,native
+918,LK_34_FASP Seed bank,LK,34,FASP Seed bank,2023,7/11/2023,"April Hulet, Lilly Wilson, Mike Mancuso, Maddi Sorrentino",GADI,2,0.013,1.333,Gayophytum diffusum ,forb,annual,native
+919,LK_34_FASP Seed bank,LK,34,FASP Seed bank,2023,7/11/2023,"April Hulet, Lilly Wilson, Mike Mancuso, Maddi Sorrentino",ACMI,1,0.007,0.667,Achillea millefolium,forb,perennial,native
+920,LK_34_FASP Seed bank,LK,34,FASP Seed bank,2023,7/11/2023,"April Hulet, Lilly Wilson, Mike Mancuso, Maddi Sorrentino",ACOC,1,0.007,0.667,Achnatherum occidentale ,grass,perennial,native
+921,LK_34_FASP Seed bank,LK,34,FASP Seed bank,2023,7/11/2023,"April Hulet, Lilly Wilson, Mike Mancuso, Maddi Sorrentino",CRAC,1,0.007,0.667,Crepis acuminata,forb,perennial,native
+922,LK_34_FASP Seed bank,LK,34,FASP Seed bank,2023,7/11/2023,"April Hulet, Lilly Wilson, Mike Mancuso, Maddi Sorrentino",ELEL,1,0.007,0.667,Elymus elymoides,grass,perennial,native
+923,LK_34_FASP Seed bank,LK,34,FASP Seed bank,2023,7/11/2023,"April Hulet, Lilly Wilson, Mike Mancuso, Maddi Sorrentino",unknown mustard,1,0.007,0.667,unknown mustard,forb,,
+924,LK_35_FA Seed bank,LK,35,FA Seed bank,2023,7/17/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake, Arden Engel",L,111,0.74,74,litter,litter,,
+925,LK_35_FA Seed bank,LK,35,FA Seed bank,2023,7/17/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake, Arden Engel",PSSP,27,0.18,18,Pseudoroegneria spicata,grass,perennial,native
+926,LK_35_FA Seed bank,LK,35,FA Seed bank,2023,7/17/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake, Arden Engel",BRTE,25,0.167,16.667,Bromus tectorum,cheatgrass,annual,introduced
+927,LK_35_FA Seed bank,LK,35,FA Seed bank,2023,7/17/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake, Arden Engel",COPA,19,0.127,12.667,Collinsia parviflora,forb,annual,native
+928,LK_35_FA Seed bank,LK,35,FA Seed bank,2023,7/17/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake, Arden Engel",BG,16,0.107,10.667,bare ground,bare ground,,
+929,LK_35_FA Seed bank,LK,35,FA Seed bank,2023,7/17/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake, Arden Engel",PUTR,14,0.093,9.333,Purshia tridentata,shrub,perennial,native
+930,LK_35_FA Seed bank,LK,35,FA Seed bank,2023,7/17/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake, Arden Engel",PODO,11,0.073,7.333,Polygonum douglasii ,forb,annual,native
+931,LK_35_FA Seed bank,LK,35,FA Seed bank,2023,7/17/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake, Arden Engel",ARTR,10,0.067,6.667,Artemisia tridentata vaseyana,shrub,perennial,native
+932,LK_35_FA Seed bank,LK,35,FA Seed bank,2023,7/17/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake, Arden Engel",LECI,10,0.067,6.667,Leymus cinereus,grass,perennial,native
+933,LK_35_FA Seed bank,LK,35,FA Seed bank,2023,7/17/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake, Arden Engel",PRVI,10,0.067,6.667,Prunus virginiana,shrub,perennial,native
+934,LK_35_FA Seed bank,LK,35,FA Seed bank,2023,7/17/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake, Arden Engel",BASA,6,0.04,4,Balsamorhiza sagittata,forb,perennial,native
+935,LK_35_FA Seed bank,LK,35,FA Seed bank,2023,7/17/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake, Arden Engel",SYRO,6,0.04,4,Symphoricarpos rotundifolius,shrub,perennial,native
+936,LK_35_FA Seed bank,LK,35,FA Seed bank,2023,7/17/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake, Arden Engel",EPBR,5,0.033,3.333,Epilobium brachycarpum ,forb,annual,native
+937,LK_35_FA Seed bank,LK,35,FA Seed bank,2023,7/17/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake, Arden Engel",MEBU,5,0.033,3.333,Melica bulbosa,grass,perennial,native
+938,LK_35_FA Seed bank,LK,35,FA Seed bank,2023,7/17/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake, Arden Engel",CHVI,4,0.027,2.667,Chrysothamnus viscidiflorus,shrub,perennial,native
+939,LK_35_FA Seed bank,LK,35,FA Seed bank,2023,7/17/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake, Arden Engel",LALO,3,0.02,2,Lappula longispina,forb,annual,native
+940,LK_35_FA Seed bank,LK,35,FA Seed bank,2023,7/17/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake, Arden Engel",LASE,3,0.02,2,Lactuca serriola,forb,annual,introduced
+941,LK_35_FA Seed bank,LK,35,FA Seed bank,2023,7/17/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake, Arden Engel",MIGR,3,0.02,2,Microsteris gracilis,forb,annual,native
+942,LK_35_FA Seed bank,LK,35,FA Seed bank,2023,7/17/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake, Arden Engel",SIAL,3,0.02,2,Sisymbrium altissimum,forb,annual,introduced
+943,LK_35_FA Seed bank,LK,35,FA Seed bank,2023,7/17/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake, Arden Engel",W,3,0.02,2,wood,wood,,
+944,LK_35_FA Seed bank,LK,35,FA Seed bank,2023,7/17/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake, Arden Engel",ACOC,2,0.013,1.333,Achnatherum occidentale ,grass,perennial,native
+945,LK_35_FA Seed bank,LK,35,FA Seed bank,2023,7/17/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake, Arden Engel",LUAR,2,0.013,1.333,Lupinus argenteus var. holosericeus ,forb,perennial,native
+946,LK_35_FA Seed bank,LK,35,FA Seed bank,2023,7/17/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake, Arden Engel",POSE,2,0.013,1.333,Poa secunda,grass,perennial,native
+947,LK_35_FA Seed bank,LK,35,FA Seed bank,2023,7/17/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake, Arden Engel",SCAN,2,0.013,1.333,Scuttelaria angustifolia ,forb,annual,native
+948,LK_35_FA Seed bank,LK,35,FA Seed bank,2023,7/17/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake, Arden Engel",BRSI,1,0.007,0.667,Bromus sitchensis,grass,perennial,native
+949,LK_35_FA Seed bank,LK,35,FA Seed bank,2023,7/17/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake, Arden Engel",CHFR,1,0.007,0.667,Chenopodium fremontii ,forb,annual,native
+950,LK_35_FA Seed bank,LK,35,FA Seed bank,2023,7/17/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake, Arden Engel",CRAC,1,0.007,0.667,Crepis acuminata,forb,perennial,native
+951,LK_35_FA Seed bank,LK,35,FA Seed bank,2023,7/17/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake, Arden Engel",MAGR,1,0.007,0.667,Madia gracilis,forb,annual,native
+952,LK_35_FA Seed bank,LK,35,FA Seed bank,2023,7/17/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake, Arden Engel",TRDU,1,0.007,0.667,Tragopogon dubius,forb,annual,introduced
+953,LK_35_FA Seed bank,LK,35,FA Seed bank,2023,7/17/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake, Arden Engel",VIPU,1,0.007,0.667,Viola purpurea,forb,perennial,native
+954,LK_36_SU Seed bank,LK,36,SU Seed bank,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",L,89,0.593,59.333,litter,litter,,
+955,LK_36_SU Seed bank,LK,36,SU Seed bank,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",PSSP,34,0.227,22.667,Pseudoroegneria spicata,grass,perennial,native
+956,LK_36_SU Seed bank,LK,36,SU Seed bank,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",ARTR,25,0.167,16.667,Artemisia tridentata vaseyana,shrub,perennial,native
+957,LK_36_SU Seed bank,LK,36,SU Seed bank,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",SYRO,25,0.167,16.667,Symphoricarpos rotundifolius,shrub,perennial,native
+958,LK_36_SU Seed bank,LK,36,SU Seed bank,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",BG,20,0.133,13.333,bare ground,bare ground,,
+959,LK_36_SU Seed bank,LK,36,SU Seed bank,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",BRTE,13,0.087,8.667,Bromus tectorum,cheatgrass,annual,introduced
+960,LK_36_SU Seed bank,LK,36,SU Seed bank,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",PRVI,10,0.067,6.667,Prunus virginiana,shrub,perennial,native
+961,LK_36_SU Seed bank,LK,36,SU Seed bank,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",BASA,9,0.06,6,Balsamorhiza sagittata,forb,perennial,native
+962,LK_36_SU Seed bank,LK,36,SU Seed bank,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",PUTR,9,0.06,6,Purshia tridentata,shrub,perennial,native
+963,LK_36_SU Seed bank,LK,36,SU Seed bank,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",POSE,7,0.047,4.667,Poa secunda,grass,perennial,native
+964,LK_36_SU Seed bank,LK,36,SU Seed bank,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",ACOC,5,0.033,3.333,Achnatherum occidentale ,grass,perennial,native
+965,LK_36_SU Seed bank,LK,36,SU Seed bank,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",BRSI,4,0.027,2.667,Bromus sitchensis,grass,perennial,native
+966,LK_36_SU Seed bank,LK,36,SU Seed bank,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",KOMA,4,0.027,2.667,Koeleria macrantha,grass,perennial,native
+967,LK_36_SU Seed bank,LK,36,SU Seed bank,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",Lupinus,4,0.027,2.667,Lupinus spp,forb,perennial,native
+968,LK_36_SU Seed bank,LK,36,SU Seed bank,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",TECA,4,0.027,2.667,Tetradymia canescens,shrub,perennial,native
+969,LK_36_SU Seed bank,LK,36,SU Seed bank,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",COPA,3,0.02,2,Collinsia parviflora,forb,annual,native
+970,LK_36_SU Seed bank,LK,36,SU Seed bank,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",SCAN,3,0.02,2,Scuttelaria angustifolia ,forb,annual,native
+971,LK_36_SU Seed bank,LK,36,SU Seed bank,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",ACMI,2,0.013,1.333,Achillea millefolium,forb,perennial,native
+972,LK_36_SU Seed bank,LK,36,SU Seed bank,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",CHVI,2,0.013,1.333,Chrysothamnus viscidiflorus,shrub,perennial,native
+973,LK_36_SU Seed bank,LK,36,SU Seed bank,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",CRAC,2,0.013,1.333,Crepis acuminata,forb,perennial,native
+974,LK_36_SU Seed bank,LK,36,SU Seed bank,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",GEVI,2,0.013,1.333,Geranium viscosissimum,forb,perennial,native
+975,LK_36_SU Seed bank,LK,36,SU Seed bank,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",MEBU,2,0.013,1.333,Melica bulbosa,grass,perennial,native
+976,LK_36_SU Seed bank,LK,36,SU Seed bank,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",VIPU,2,0.013,1.333,Viola purpurea,forb,perennial,native
+977,LK_36_SU Seed bank,LK,36,SU Seed bank,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",CEVE,1,0.007,0.667,Ceanothus velutinus,shrub,perennial,native
+978,LK_36_SU Seed bank,LK,36,SU Seed bank,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",Calochortus,1,0.007,0.667,Calochortus spp,forb,perennial,native
+979,LK_36_SU Seed bank,LK,36,SU Seed bank,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",Cryptantha,1,0.007,0.667,Cryptantha spp,forb,,native
+980,LK_36_SU Seed bank,LK,36,SU Seed bank,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",EPBR,1,0.007,0.667,Epilobium brachycarpum ,forb,annual,native
+981,LK_36_SU Seed bank,LK,36,SU Seed bank,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",ERUM,1,0.007,0.667,Eriogonum umbellatum,forb,perennial,native
+982,LK_36_SU Seed bank,LK,36,SU Seed bank,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",LECI,1,0.007,0.667,Leymus cinereus,grass,perennial,native
+983,LK_36_SU Seed bank,LK,36,SU Seed bank,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",PODO,1,0.007,0.667,Polygonum douglasii ,forb,annual,native
+984,LK_36_SU Seed bank,LK,36,SU Seed bank,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",ROWO,1,0.007,0.667,Rosa woodsii,shrub,perennial,native
+985,LK_36_SU Seed bank,LK,36,SU Seed bank,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",SEIN,1,0.007,0.667,Senecio integerrimus,forb,perennial,native
+986,LK_36_SU Seed bank,LK,36,SU Seed bank,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",SIDO,1,0.007,0.667,Silene douglasii,forb,perennial,native
+987,LK_36_SU Seed bank,LK,36,SU Seed bank,2023,7/6/2023,"Kerry Byrne, Maddi Sorrentino, Kloe Walter, Kelly Hopping",unknown forb,1,0.007,0.667,unknown forb,forb,,
+988,DC_37_FA Seed bank,DC,37,FA Seed bank,2023,7/18/2023,"Curtis Drake, Colby Behr, Kloe Walter, Maddi Sorrentino",L,118,0.787,78.667,litter,litter,,
+989,DC_37_FA Seed bank,DC,37,FA Seed bank,2023,7/18/2023,"Curtis Drake, Colby Behr, Kloe Walter, Maddi Sorrentino",LECI,41,0.273,27.333,Leymus cinereus,grass,perennial,native
+990,DC_37_FA Seed bank,DC,37,FA Seed bank,2023,7/18/2023,"Curtis Drake, Colby Behr, Kloe Walter, Maddi Sorrentino",BRTE,33,0.22,22,Bromus tectorum,cheatgrass,annual,introduced
+991,DC_37_FA Seed bank,DC,37,FA Seed bank,2023,7/18/2023,"Curtis Drake, Colby Behr, Kloe Walter, Maddi Sorrentino",PSSP,30,0.2,20,Pseudoroegneria spicata,grass,perennial,native
+992,DC_37_FA Seed bank,DC,37,FA Seed bank,2023,7/18/2023,"Curtis Drake, Colby Behr, Kloe Walter, Maddi Sorrentino",MIGR,26,0.173,17.333,Microsteris gracilis,forb,annual,native
+993,DC_37_FA Seed bank,DC,37,FA Seed bank,2023,7/18/2023,"Curtis Drake, Colby Behr, Kloe Walter, Maddi Sorrentino",PODO,20,0.133,13.333,Polygonum douglasii ,forb,annual,native
+994,DC_37_FA Seed bank,DC,37,FA Seed bank,2023,7/18/2023,"Curtis Drake, Colby Behr, Kloe Walter, Maddi Sorrentino",LUAR,16,0.107,10.667,Lupinus argenteus var. holosericeus ,forb,perennial,native
+995,DC_37_FA Seed bank,DC,37,FA Seed bank,2023,7/18/2023,"Curtis Drake, Colby Behr, Kloe Walter, Maddi Sorrentino",EPBR,14,0.093,9.333,Epilobium brachycarpum ,forb,annual,native
+996,DC_37_FA Seed bank,DC,37,FA Seed bank,2023,7/18/2023,"Curtis Drake, Colby Behr, Kloe Walter, Maddi Sorrentino",BG,8,0.053,5.333,bare ground,bare ground,,
+997,DC_37_FA Seed bank,DC,37,FA Seed bank,2023,7/18/2023,"Curtis Drake, Colby Behr, Kloe Walter, Maddi Sorrentino",SYCA,8,0.053,5.333,Symphyotrichum campestre,forb,perennial,native
+998,DC_37_FA Seed bank,DC,37,FA Seed bank,2023,7/18/2023,"Curtis Drake, Colby Behr, Kloe Walter, Maddi Sorrentino",CHVI,7,0.047,4.667,Chrysothamnus viscidiflorus,shrub,perennial,native
+999,DC_37_FA Seed bank,DC,37,FA Seed bank,2023,7/18/2023,"Curtis Drake, Colby Behr, Kloe Walter, Maddi Sorrentino",TRDU,7,0.047,4.667,Tragopogon dubius,forb,annual,introduced
+1000,DC_37_FA Seed bank,DC,37,FA Seed bank,2023,7/18/2023,"Curtis Drake, Colby Behr, Kloe Walter, Maddi Sorrentino",BRSI,6,0.04,4,Bromus sitchensis,grass,perennial,native
+1001,DC_37_FA Seed bank,DC,37,FA Seed bank,2023,7/18/2023,"Curtis Drake, Colby Behr, Kloe Walter, Maddi Sorrentino",LASE,6,0.04,4,Lactuca serriola,forb,annual,introduced
+1002,DC_37_FA Seed bank,DC,37,FA Seed bank,2023,7/18/2023,"Curtis Drake, Colby Behr, Kloe Walter, Maddi Sorrentino",CRAC,5,0.033,3.333,Crepis acuminata,forb,perennial,native
+1003,DC_37_FA Seed bank,DC,37,FA Seed bank,2023,7/18/2023,"Curtis Drake, Colby Behr, Kloe Walter, Maddi Sorrentino",HISC,5,0.033,3.333,Hieracium scouleri,forb,perennial,native
+1004,DC_37_FA Seed bank,DC,37,FA Seed bank,2023,7/18/2023,"Curtis Drake, Colby Behr, Kloe Walter, Maddi Sorrentino",COPA,3,0.02,2,Collinsia parviflora,forb,annual,native
+1005,DC_37_FA Seed bank,DC,37,FA Seed bank,2023,7/18/2023,"Curtis Drake, Colby Behr, Kloe Walter, Maddi Sorrentino",LIRU,3,0.02,2,Lithospermum ruderale,forb,perennial,native
+1006,DC_37_FA Seed bank,DC,37,FA Seed bank,2023,7/18/2023,"Curtis Drake, Colby Behr, Kloe Walter, Maddi Sorrentino",HAMI,2,0.013,1.333,Hackelia micrantha,forb,perennial,native
+1007,DC_37_FA Seed bank,DC,37,FA Seed bank,2023,7/18/2023,"Curtis Drake, Colby Behr, Kloe Walter, Maddi Sorrentino",MAGR,2,0.013,1.333,Madia gracilis,forb,annual,native
+1008,DC_37_FA Seed bank,DC,37,FA Seed bank,2023,7/18/2023,"Curtis Drake, Colby Behr, Kloe Walter, Maddi Sorrentino",MEBU,2,0.013,1.333,Melica bulbosa,grass,perennial,native
+1009,DC_37_FA Seed bank,DC,37,FA Seed bank,2023,7/18/2023,"Curtis Drake, Colby Behr, Kloe Walter, Maddi Sorrentino",ACMI,1,0.007,0.667,Achillea millefolium,forb,perennial,native
+1010,DC_37_FA Seed bank,DC,37,FA Seed bank,2023,7/18/2023,"Curtis Drake, Colby Behr, Kloe Walter, Maddi Sorrentino",ACOC,1,0.007,0.667,Achnatherum occidentale ,grass,perennial,native
+1011,DC_37_FA Seed bank,DC,37,FA Seed bank,2023,7/18/2023,"Curtis Drake, Colby Behr, Kloe Walter, Maddi Sorrentino",CEVE,1,0.007,0.667,Ceanothus velutinus,shrub,perennial,native
+1012,DC_37_FA Seed bank,DC,37,FA Seed bank,2023,7/18/2023,"Curtis Drake, Colby Behr, Kloe Walter, Maddi Sorrentino",DESO,1,0.007,0.667,Descurainia sophia ,forb,annual,introduced
+1013,DC_37_FA Seed bank,DC,37,FA Seed bank,2023,7/18/2023,"Curtis Drake, Colby Behr, Kloe Walter, Maddi Sorrentino",GADI,1,0.007,0.667,Gayophytum diffusum ,forb,annual,native
+1014,DC_37_FA Seed bank,DC,37,FA Seed bank,2023,7/18/2023,"Curtis Drake, Colby Behr, Kloe Walter, Maddi Sorrentino",HEUN,1,0.007,0.667,Helianthella uniflora,forb,perennial,native
+1015,DC_37_FA Seed bank,DC,37,FA Seed bank,2023,7/18/2023,"Curtis Drake, Colby Behr, Kloe Walter, Maddi Sorrentino",ILRI,1,0.007,0.667,Iliamna rivularis,forb,perennial,native
+1016,DC_37_FA Seed bank,DC,37,FA Seed bank,2023,7/18/2023,"Curtis Drake, Colby Behr, Kloe Walter, Maddi Sorrentino",PELA,1,0.007,0.667,Penstemon laxus ,forb,perennial,native
+1017,DC_37_FA Seed bank,DC,37,FA Seed bank,2023,7/18/2023,"Curtis Drake, Colby Behr, Kloe Walter, Maddi Sorrentino",PHHA,1,0.007,0.667,Phacelia hastata,forb,perennial,native
+1018,DC_37_FA Seed bank,DC,37,FA Seed bank,2023,7/18/2023,"Curtis Drake, Colby Behr, Kloe Walter, Maddi Sorrentino",ROWO,1,0.007,0.667,Rosa woodsii,shrub,perennial,native
+1019,DC_37_FA Seed bank,DC,37,FA Seed bank,2023,7/18/2023,"Curtis Drake, Colby Behr, Kloe Walter, Maddi Sorrentino",SCAN,1,0.007,0.667,Scuttelaria angustifolia ,forb,annual,native
+1020,DC_37_FA Seed bank,DC,37,FA Seed bank,2023,7/18/2023,"Curtis Drake, Colby Behr, Kloe Walter, Maddi Sorrentino",SYRO,1,0.007,0.667,Symphoricarpos rotundifolius,shrub,perennial,native
+1021,DC_38_FASP Seed bank,DC,38,FASP Seed bank,2023,7/13/2023,"April Hulet, Mallory Hinton, Raechel Hunsaker, Jacob Scott",L,75,0.5,50,litter,litter,,
+1022,DC_38_FASP Seed bank,DC,38,FASP Seed bank,2023,7/13/2023,"April Hulet, Mallory Hinton, Raechel Hunsaker, Jacob Scott",BRTE,59,0.393,39.333,Bromus tectorum,cheatgrass,annual,introduced
+1023,DC_38_FASP Seed bank,DC,38,FASP Seed bank,2023,7/13/2023,"April Hulet, Mallory Hinton, Raechel Hunsaker, Jacob Scott",BG,19,0.127,12.667,bare ground,bare ground,,
+1024,DC_38_FASP Seed bank,DC,38,FASP Seed bank,2023,7/13/2023,"April Hulet, Mallory Hinton, Raechel Hunsaker, Jacob Scott",CRTO,14,0.093,9.333,Cryptantha torreyana,forb,annual,native
+1025,DC_38_FASP Seed bank,DC,38,FASP Seed bank,2023,7/13/2023,"April Hulet, Mallory Hinton, Raechel Hunsaker, Jacob Scott",PRVI,10,0.067,6.667,Prunus virginiana,shrub,perennial,native
+1026,DC_38_FASP Seed bank,DC,38,FASP Seed bank,2023,7/13/2023,"April Hulet, Mallory Hinton, Raechel Hunsaker, Jacob Scott",PSSP,10,0.067,6.667,Pseudoroegneria spicata,grass,perennial,native
+1027,DC_38_FASP Seed bank,DC,38,FASP Seed bank,2023,7/13/2023,"April Hulet, Mallory Hinton, Raechel Hunsaker, Jacob Scott",COPA,6,0.04,4,Collinsia parviflora,forb,annual,native
+1028,DC_38_FASP Seed bank,DC,38,FASP Seed bank,2023,7/13/2023,"April Hulet, Mallory Hinton, Raechel Hunsaker, Jacob Scott",EPBR,6,0.04,4,Epilobium brachycarpum ,forb,annual,native
+1029,DC_38_FASP Seed bank,DC,38,FASP Seed bank,2023,7/13/2023,"April Hulet, Mallory Hinton, Raechel Hunsaker, Jacob Scott",MAGR,6,0.04,4,Madia gracilis,forb,annual,native
+1030,DC_38_FASP Seed bank,DC,38,FASP Seed bank,2023,7/13/2023,"April Hulet, Mallory Hinton, Raechel Hunsaker, Jacob Scott",SCAN,6,0.04,4,Scuttelaria angustifolia ,forb,annual,native
+1031,DC_38_FASP Seed bank,DC,38,FASP Seed bank,2023,7/13/2023,"April Hulet, Mallory Hinton, Raechel Hunsaker, Jacob Scott",SIAL,6,0.04,4,Sisymbrium altissimum,forb,annual,introduced
+1032,DC_38_FASP Seed bank,DC,38,FASP Seed bank,2023,7/13/2023,"April Hulet, Mallory Hinton, Raechel Hunsaker, Jacob Scott",GADI,5,0.033,3.333,Gayophytum diffusum ,forb,annual,native
+1033,DC_38_FASP Seed bank,DC,38,FASP Seed bank,2023,7/13/2023,"April Hulet, Mallory Hinton, Raechel Hunsaker, Jacob Scott",LECI,5,0.033,3.333,Leymus cinereus,grass,perennial,native
+1034,DC_38_FASP Seed bank,DC,38,FASP Seed bank,2023,7/13/2023,"April Hulet, Mallory Hinton, Raechel Hunsaker, Jacob Scott",POSE,3,0.02,2,Poa secunda,grass,perennial,native
+1035,DC_38_FASP Seed bank,DC,38,FASP Seed bank,2023,7/13/2023,"April Hulet, Mallory Hinton, Raechel Hunsaker, Jacob Scott",ARTR,2,0.013,1.333,Artemisia tridentata vaseyana,shrub,perennial,native
+1036,DC_38_FASP Seed bank,DC,38,FASP Seed bank,2023,7/13/2023,"April Hulet, Mallory Hinton, Raechel Hunsaker, Jacob Scott",PHHA,2,0.013,1.333,Phacelia hastata,forb,perennial,native
+1037,DC_38_FASP Seed bank,DC,38,FASP Seed bank,2023,7/13/2023,"April Hulet, Mallory Hinton, Raechel Hunsaker, Jacob Scott",PIEX,2,0.013,1.333,Piptatheropsis exigua,grass,perennial,native
+1038,DC_38_FASP Seed bank,DC,38,FASP Seed bank,2023,7/13/2023,"April Hulet, Mallory Hinton, Raechel Hunsaker, Jacob Scott",unknown,2,0.013,1.333,unknown,,,
+1039,DC_38_FASP Seed bank,DC,38,FASP Seed bank,2023,7/13/2023,"April Hulet, Mallory Hinton, Raechel Hunsaker, Jacob Scott",unknown forb,2,0.013,1.333,unknown forb,forb,,
+1040,DC_38_FASP Seed bank,DC,38,FASP Seed bank,2023,7/13/2023,"April Hulet, Mallory Hinton, Raechel Hunsaker, Jacob Scott",ACNE,1,0.007,0.667,Achnatherum nelsonii,grass,perennial,native
+1041,DC_38_FASP Seed bank,DC,38,FASP Seed bank,2023,7/13/2023,"April Hulet, Mallory Hinton, Raechel Hunsaker, Jacob Scott",CAMI,1,0.007,0.667,Camelina microcarpa,forb,annual,introduced
+1042,DC_38_FASP Seed bank,DC,38,FASP Seed bank,2023,7/13/2023,"April Hulet, Mallory Hinton, Raechel Hunsaker, Jacob Scott",CHDO,1,0.007,0.667,Chaenactis douglasii,forb,perennial,native
+1043,DC_38_FASP Seed bank,DC,38,FASP Seed bank,2023,7/13/2023,"April Hulet, Mallory Hinton, Raechel Hunsaker, Jacob Scott",ILRI,1,0.007,0.667,Iliamna rivularis,forb,perennial,native
+1044,DC_38_FASP Seed bank,DC,38,FASP Seed bank,2023,7/13/2023,"April Hulet, Mallory Hinton, Raechel Hunsaker, Jacob Scott",LASE,1,0.007,0.667,Lactuca serriola,forb,annual,introduced
+1045,DC_38_FASP Seed bank,DC,38,FASP Seed bank,2023,7/13/2023,"April Hulet, Mallory Hinton, Raechel Hunsaker, Jacob Scott",Lupinus,1,0.007,0.667,Lupinus spp,forb,perennial,native
+1046,DC_38_FASP Seed bank,DC,38,FASP Seed bank,2023,7/13/2023,"April Hulet, Mallory Hinton, Raechel Hunsaker, Jacob Scott",MILO,1,0.007,0.667,unknown species code,,,
+1047,DC_38_FASP Seed bank,DC,38,FASP Seed bank,2023,7/13/2023,"April Hulet, Mallory Hinton, Raechel Hunsaker, Jacob Scott",PHLO,1,0.007,0.667,Phlox longifolia,forb,perennial,native
+1048,DC_38_FASP Seed bank,DC,38,FASP Seed bank,2023,7/13/2023,"April Hulet, Mallory Hinton, Raechel Hunsaker, Jacob Scott",PUTR,1,0.007,0.667,Purshia tridentata,shrub,perennial,native
+1049,DC_39_SP,DC,39,SP,2023,7/12/2023,"Mike Mancuso, Richie Holder, Curtis Drake, Maddi Sorrentino",L,85,0.567,56.667,litter,litter,,
+1050,DC_39_SP,DC,39,SP,2023,7/12/2023,"Mike Mancuso, Richie Holder, Curtis Drake, Maddi Sorrentino",PSSP,32,0.213,21.333,Pseudoroegneria spicata,grass,perennial,native
+1051,DC_39_SP,DC,39,SP,2023,7/12/2023,"Mike Mancuso, Richie Holder, Curtis Drake, Maddi Sorrentino",LASE,21,0.14,14,Lactuca serriola,forb,annual,introduced
+1052,DC_39_SP,DC,39,SP,2023,7/12/2023,"Mike Mancuso, Richie Holder, Curtis Drake, Maddi Sorrentino",BRSI,20,0.133,13.333,Bromus sitchensis,grass,perennial,native
+1053,DC_39_SP,DC,39,SP,2023,7/12/2023,"Mike Mancuso, Richie Holder, Curtis Drake, Maddi Sorrentino",LUAR,18,0.12,12,Lupinus argenteus var. holosericeus ,forb,perennial,native
+1054,DC_39_SP,DC,39,SP,2023,7/12/2023,"Mike Mancuso, Richie Holder, Curtis Drake, Maddi Sorrentino",SYRO,17,0.113,11.333,Symphoricarpos rotundifolius,shrub,perennial,native
+1055,DC_39_SP,DC,39,SP,2023,7/12/2023,"Mike Mancuso, Richie Holder, Curtis Drake, Maddi Sorrentino",BRTE,15,0.1,10,Bromus tectorum,cheatgrass,annual,introduced
+1056,DC_39_SP,DC,39,SP,2023,7/12/2023,"Mike Mancuso, Richie Holder, Curtis Drake, Maddi Sorrentino",MIGR,14,0.093,9.333,Microsteris gracilis,forb,annual,native
+1057,DC_39_SP,DC,39,SP,2023,7/12/2023,"Mike Mancuso, Richie Holder, Curtis Drake, Maddi Sorrentino",BG,11,0.073,7.333,bare ground,bare ground,,
+1058,DC_39_SP,DC,39,SP,2023,7/12/2023,"Mike Mancuso, Richie Holder, Curtis Drake, Maddi Sorrentino",LECI,8,0.053,5.333,Leymus cinereus,grass,perennial,native
+1059,DC_39_SP,DC,39,SP,2023,7/12/2023,"Mike Mancuso, Richie Holder, Curtis Drake, Maddi Sorrentino",MEBU,7,0.047,4.667,Melica bulbosa,grass,perennial,native
+1060,DC_39_SP,DC,39,SP,2023,7/12/2023,"Mike Mancuso, Richie Holder, Curtis Drake, Maddi Sorrentino",EPBR,6,0.04,4,Epilobium brachycarpum ,forb,annual,native
+1061,DC_39_SP,DC,39,SP,2023,7/12/2023,"Mike Mancuso, Richie Holder, Curtis Drake, Maddi Sorrentino",HISC,5,0.033,3.333,Hieracium scouleri,forb,perennial,native
+1062,DC_39_SP,DC,39,SP,2023,7/12/2023,"Mike Mancuso, Richie Holder, Curtis Drake, Maddi Sorrentino",AGUR,4,0.027,2.667,Agastache urticifolia,forb,perennial,native
+1063,DC_39_SP,DC,39,SP,2023,7/12/2023,"Mike Mancuso, Richie Holder, Curtis Drake, Maddi Sorrentino",COPA,4,0.027,2.667,Collinsia parviflora,forb,annual,native
+1064,DC_39_SP,DC,39,SP,2023,7/12/2023,"Mike Mancuso, Richie Holder, Curtis Drake, Maddi Sorrentino",ILRI,3,0.02,2,Iliamna rivularis,forb,perennial,native
+1065,DC_39_SP,DC,39,SP,2023,7/12/2023,"Mike Mancuso, Richie Holder, Curtis Drake, Maddi Sorrentino",GABI,2,0.013,1.333,Galium bifolium,forb,annual,native
+1066,DC_39_SP,DC,39,SP,2023,7/12/2023,"Mike Mancuso, Richie Holder, Curtis Drake, Maddi Sorrentino",HAMI,2,0.013,1.333,Hackelia micrantha,forb,perennial,native
+1067,DC_39_SP,DC,39,SP,2023,7/12/2023,"Mike Mancuso, Richie Holder, Curtis Drake, Maddi Sorrentino",PHHA,2,0.013,1.333,Phacelia hastata,forb,perennial,native
+1068,DC_39_SP,DC,39,SP,2023,7/12/2023,"Mike Mancuso, Richie Holder, Curtis Drake, Maddi Sorrentino",W,2,0.013,1.333,wood,wood,,
+1069,DC_39_SP,DC,39,SP,2023,7/12/2023,"Mike Mancuso, Richie Holder, Curtis Drake, Maddi Sorrentino",ACOC,1,0.007,0.667,Achnatherum occidentale ,grass,perennial,native
+1070,DC_39_SP,DC,39,SP,2023,7/12/2023,"Mike Mancuso, Richie Holder, Curtis Drake, Maddi Sorrentino",BRAR,1,0.007,0.667,Bromus arvensis,grass,annual,introduced
+1071,DC_39_SP,DC,39,SP,2023,7/12/2023,"Mike Mancuso, Richie Holder, Curtis Drake, Maddi Sorrentino",PHLO,1,0.007,0.667,Phlox longifolia,forb,perennial,native
+1072,DC_39_SP,DC,39,SP,2023,7/12/2023,"Mike Mancuso, Richie Holder, Curtis Drake, Maddi Sorrentino",RICE,1,0.007,0.667,Ribes cereum ,shrub,perennial,native
+1073,DC_39_SP,DC,39,SP,2023,7/12/2023,"Mike Mancuso, Richie Holder, Curtis Drake, Maddi Sorrentino",SIAL,1,0.007,0.667,Sisymbrium altissimum,forb,annual,introduced
+1074,DC_39_SP,DC,39,SP,2023,7/12/2023,"Mike Mancuso, Richie Holder, Curtis Drake, Maddi Sorrentino",VIPU,1,0.007,0.667,Viola purpurea,forb,perennial,native
+1075,DC_39_SP,DC,39,SP,2023,7/12/2023,"Mike Mancuso, Richie Holder, Curtis Drake, Maddi Sorrentino",unknown grass,1,0.007,0.667,unknown grass,grass,,
+1076,DC_40_SU Seed bank,DC,40,SU Seed bank,2023,7/19/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake",L,90,0.6,60,litter,litter,,
+1077,DC_40_SU Seed bank,DC,40,SU Seed bank,2023,7/19/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake",BRTE,30,0.2,20,Bromus tectorum,cheatgrass,annual,introduced
+1078,DC_40_SU Seed bank,DC,40,SU Seed bank,2023,7/19/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake",SYRO,28,0.187,18.667,Symphoricarpos rotundifolius,shrub,perennial,native
+1079,DC_40_SU Seed bank,DC,40,SU Seed bank,2023,7/19/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake",BG,25,0.167,16.667,bare ground,bare ground,,
+1080,DC_40_SU Seed bank,DC,40,SU Seed bank,2023,7/19/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake",PSSP,23,0.153,15.333,Pseudoroegneria spicata,grass,perennial,native
+1081,DC_40_SU Seed bank,DC,40,SU Seed bank,2023,7/19/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake",COPA,18,0.12,12,Collinsia parviflora,forb,annual,native
+1082,DC_40_SU Seed bank,DC,40,SU Seed bank,2023,7/19/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake",BRSI,14,0.093,9.333,Bromus sitchensis,grass,perennial,native
+1083,DC_40_SU Seed bank,DC,40,SU Seed bank,2023,7/19/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake",MIGR,13,0.087,8.667,Microsteris gracilis,forb,annual,native
+1084,DC_40_SU Seed bank,DC,40,SU Seed bank,2023,7/19/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake",POSE,13,0.087,8.667,Poa secunda,grass,perennial,native
+1085,DC_40_SU Seed bank,DC,40,SU Seed bank,2023,7/19/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake",BASA,9,0.06,6,Balsamorhiza sagittata,forb,perennial,native
+1086,DC_40_SU Seed bank,DC,40,SU Seed bank,2023,7/19/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake",PODO,8,0.053,5.333,Polygonum douglasii ,forb,annual,native
+1087,DC_40_SU Seed bank,DC,40,SU Seed bank,2023,7/19/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake",LUAR,6,0.04,4,Lupinus argenteus var. holosericeus ,forb,perennial,native
+1088,DC_40_SU Seed bank,DC,40,SU Seed bank,2023,7/19/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake",EPBR,5,0.033,3.333,Epilobium brachycarpum ,forb,annual,native
+1089,DC_40_SU Seed bank,DC,40,SU Seed bank,2023,7/19/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake",ARTR,4,0.027,2.667,Artemisia tridentata vaseyana,shrub,perennial,native
+1090,DC_40_SU Seed bank,DC,40,SU Seed bank,2023,7/19/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake",CHVI,4,0.027,2.667,Chrysothamnus viscidiflorus,shrub,perennial,native
+1091,DC_40_SU Seed bank,DC,40,SU Seed bank,2023,7/19/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake",LODI,4,0.027,2.667,Lomatium dissectum ,forb,perennial,native
+1092,DC_40_SU Seed bank,DC,40,SU Seed bank,2023,7/19/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake",CRAC,3,0.02,2,Crepis acuminata,forb,perennial,native
+1093,DC_40_SU Seed bank,DC,40,SU Seed bank,2023,7/19/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake",MEBU,3,0.02,2,Melica bulbosa,grass,perennial,native
+1094,DC_40_SU Seed bank,DC,40,SU Seed bank,2023,7/19/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake",PUTR,3,0.02,2,Purshia tridentata,shrub,perennial,native
+1095,DC_40_SU Seed bank,DC,40,SU Seed bank,2023,7/19/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake",BUBO,2,0.013,1.333,unknown species code,forb,,
+1096,DC_40_SU Seed bank,DC,40,SU Seed bank,2023,7/19/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake",ERHE,2,0.013,1.333,Eriogonum heracleoides,forb,perennial,native
+1097,DC_40_SU Seed bank,DC,40,SU Seed bank,2023,7/19/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake",GADI,2,0.013,1.333,Gayophytum diffusum ,forb,annual,native
+1098,DC_40_SU Seed bank,DC,40,SU Seed bank,2023,7/19/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake",HEUN,2,0.013,1.333,Helianthella uniflora,forb,perennial,native
+1099,DC_40_SU Seed bank,DC,40,SU Seed bank,2023,7/19/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake",LECI,2,0.013,1.333,Leymus cinereus,grass,perennial,native
+1100,DC_40_SU Seed bank,DC,40,SU Seed bank,2023,7/19/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake",PHHO,2,0.013,1.333,Phlox hoodii,forb,perennial,native
+1101,DC_40_SU Seed bank,DC,40,SU Seed bank,2023,7/19/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake",ACOC,1,0.007,0.667,Achnatherum occidentale ,grass,perennial,native
+1102,DC_40_SU Seed bank,DC,40,SU Seed bank,2023,7/19/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake",DG,1,0.007,0.667,dead grass,grass,,
+1103,DC_40_SU Seed bank,DC,40,SU Seed bank,2023,7/19/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake",ERUM,1,0.007,0.667,Eriogonum umbellatum,forb,perennial,native
+1104,DC_40_SU Seed bank,DC,40,SU Seed bank,2023,7/19/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake",HAPE,1,0.007,0.667,unknown species code,,,
+1105,DC_40_SU Seed bank,DC,40,SU Seed bank,2023,7/19/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake",LASE,1,0.007,0.667,Lactuca serriola,forb,annual,introduced
+1106,DC_40_SU Seed bank,DC,40,SU Seed bank,2023,7/19/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake",PELA,1,0.007,0.667,Penstemon laxus ,forb,perennial,native
+1107,DC_40_SU Seed bank,DC,40,SU Seed bank,2023,7/19/2023,"Kloe Walter, Maddi Sorrentino, Curtis Drake",PHHA,1,0.007,0.667,Phacelia hastata,forb,perennial,native
