@@ -12,6 +12,7 @@ library(marginaleffects)
 library(sjPlot)
 library(gridExtra)
 library(plotrix)
+library(ggeffects)
 
 setwd("/Users/madelynsorrentino/Documents/GitHub/Sheep-targeted-grazing")
 
@@ -136,6 +137,23 @@ NO3_mod_lognormal <- glmmTMB(no3_plot_mgkg~Fall*Spring*Year + (1|Plot), data=nmi
                              family=lognormal(link = "identity"))
 summary(NO3_mod_lognormal) ## INSANE effect sizes?? Likely due to massive variance in 2023 and much larger numbers?
 performance(NO3_mod_lognormal)
+
+## check residuals
+## note cannot calculate person residuals for this type of model 
+plot(
+  fitted(NO3_mod_lognormal),
+  residuals(NO3_mod_lognormal, type = "response"),
+  xlab = "Fitted values",
+  ylab = "Response residuals")
+abline(h = 0, lty = 2)
+
+## another way
+library(DHARMa)
+sim_res <- simulateResiduals(
+  fittedModel = NO3_mod_lognormal,
+  n = 1000)
+
+plot(sim_res)
 
 ## marginal effects code 
 
